@@ -12,7 +12,7 @@
 
 **不论你是单偶制的拥护者，还是非单偶制的探索者，这本书都可以帮助你更加理解自己。**
 
-原书购买地址：[Buy original eBook at Luminastra Press](https://luminastra-press.com/store/index.php?route=product/product&path=57&product_id=60)
+> 原书购买地址：[Buy original eBook at Luminastra Press](https://luminastra-press.com/store/index.php?route=product/product&path=57&product_id=60)
 
 作者介绍：Jonathan Kent，男，英国人。记者、播音员、作家，曾为 BBC、Reuters、Newsweek 等媒体担任国际关系和政治记者。
 
