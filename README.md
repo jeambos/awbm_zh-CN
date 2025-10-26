@@ -18,6 +18,12 @@
 
 译者介绍：Jeambo，曾积极参与 LGBT 倡导活动，现在转入幕后。
 
+***
+
+![cover_thumb](https://raw.githubusercontent.com/jeambos/awbm_zh-CN/refs/heads/main/cover_art/thumb.jpg "超越单偶制的世界（正式封面）")
+
+***
+
 ## Progress
 
 ### 翻译工程
@@ -51,9 +57,3 @@
 > 需要一些技术指导
 
 上线 [jeambos.github.io](https://jeambos.github.io/)  ...0%
-
-***
-
-![cover_thumb](https://raw.githubusercontent.com/jeambos/awbm_zh-CN/refs/heads/main/cover_art/thumb.jpg "超越单偶制的世界（正式封面）")
-
-
