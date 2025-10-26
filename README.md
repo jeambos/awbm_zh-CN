@@ -28,32 +28,32 @@
 
 ### 翻译工程
 
-翻译全文... 100%
+- 翻译全文... 100%
 
 ### ~发布试读本~
 
-~跳过，此次不设试读本。~
+- ~跳过，此次不设试读本。~
 
 ### 发布 V1.0
 
-封面设计 ...100% 
+- 封面设计 ...100% 
 
-> （此次封面设计共有ABCD四版设计，可在 [/cover_art](https://github.com/jeambos/awbm_zh-CN/tree/main/cover_art) 查看淘汰稿件）
+  > （此次封面设计共有ABCD四版设计，可在 [/cover_art](https://github.com/jeambos/awbm_zh-CN/tree/main/cover_art) 查看淘汰稿件）
 
-制作 PDF 文档 ...100%
+- 制作 PDF 文档 ...100%
 
-制作 epub 文档 ...100%
+- 制作 epub 文档 ...100%
 
-上传发布 ...100% [点此下载](https://github.com/jeambos/awbm_zh-CN/releases)
+- 上传发布 ...100% [点此下载](https://github.com/jeambos/awbm_zh-CN/releases)
 
 ### 建立不断更新的文档网站
 
-全书转换成 markdown 格式 ...13.7% (13已完成/共95) 
+- 全书转换成 markdown 格式 ...13.7% (13已完成/共95) 
 
-> md工程实时同步在 [/md_files](https://github.com/jeambos/awbm_zh-CN/tree/main/md_files) 目录下
+  > （md工程实时同步在 [/md_files](https://github.com/jeambos/awbm_zh-CN/tree/main/md_files) 目录下）
 
-利用 Gitbook 转换成文档站 ...0%
+- 利用 Gitbook 转换成文档站 ...0%
 
-> 需要一些技术指导
+  > （需要一些技术指导）
 
-上线 [jeambos.github.io](https://jeambos.github.io/)  ...0%
+- 上线 [jeambos.github.io](https://jeambos.github.io/)  ...0%
