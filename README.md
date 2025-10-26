@@ -1,4 +1,4 @@
-# 《超越单偶制的世界》
+# 《超越单偶制的世界》简体中文译本 by Jeambo
 
 *A World Beyond Monogamy* 简体中文版
 
