@@ -48,12 +48,6 @@
 
 ### 建立不断更新的文档网站
 
-- 全书转换成 markdown 格式 ...13.7% (13已完成/共95) 
+- 全书转换成 markdown 格式 ...100 %  
 
-  > （md工程实时同步在 [/md_files](https://github.com/jeambos/awbm_zh-CN/tree/main/md_files) 目录下）
-
-- 利用 Gitbook 转换成文档站 ...0%
-
-  > （需要一些技术指导）
-
-- 上线 [jeambos.github.io](https://jeambos.github.io/)  ...0%
+- 文库站上线 ...100% [去看看！](https://polycn.org/library/books/beyond-monogamy)
