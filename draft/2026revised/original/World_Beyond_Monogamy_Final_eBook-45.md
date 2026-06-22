@@ -1,0 +1,165 @@
+## Chapter Thirty-Two: A Consensually Non-Monogamous Person’s Bill of Rights?
+
+Of all the posts on the popular, early polyamory website ‘More Than Two’, one generated more discussion over the years than anything else. It was originally called ‘A Secondary’s Bill of Rights’[^footnote-060], later generalized to ‘The Relationship Bill of Rights’. It’s a great starting point for exploring what rights and responsibilities people have within all kinds of relationships, monogamous or consensually non-monogamous. You may or may not find yourself agreeing with all of them. However, if they prompt useful reflection and discussion then they’ve done their job.
+
+Later in this chapter I’ll suggest my own list of CNM principles. But first I’ll take a look at those proposed back in 2003. I’ve included some of the author’s original comments with them, edited and condensed, then mine.
+
+### A Secondary’s Bill of Rights
+
+
+- I have the right to be treated with honesty, integrity, compassion, and sensitivity to my needs.
+
+Ideally this would be how everybody treats everybody else in any sort of relationship. Obviously much of human history is brimming with examples of people failing to treat others with honesty, integrity, compassion and sensitivity—because people are flawed or they were socialised to accept flawed notions of how to treat people, hence the need to spell this out.
+
+
+- I have the right, and responsibility, to understand clearly the rules of a relationship. When I enter a new relationship, I have the right to have rules and the reasons behind them clearly explained and to have my questions answered. “Because that is how things are” is not an answer; if I do not understand the reasons for the rules, then I may unintentionally violate the spirit of those rules even if I remain within the letter. Rules should not be added or changed without explanation. I cannot be expected to discover the rules governing my relationship when by breaking them accidentally they blow up on me
+
+This goes to the heart of much that causes relationship problems, and not just in consensual non-monogamy. People want different things from relationships, and it often takes time for us to figure out what we want and what the other or others want.
+
+Sometimes this is clear from the outset. One person might say, for instance; ‘I’ve just emerged from a very bruising separation and right now I’m looking for company, fun, someone to relax with and someone to have sex with. But I’m not in a place where I can think about planning and commitments.’ Another might say; ‘I’ve had enough of people who just want something casual. I want a relationship around which I can build a life and a future.’
+
+The trouble is that when starting out on a relationship we’re often reluctant to say what we want or think we want, perhaps for fear of driving the other person away. It often happens that people will settle for less than they want when they go into a new relationship. Perhaps they’re lonely, perhaps they’re just overwhelmingly attracted to the other person.
+
+Yes it can be scary to lay one’s soul bare early on in a relationship, and it can be pretty disconcerting when someone bares their soul to you, but fearless, compassionate communication really helps. Such things are almost always easier if one isn’t too fearful of hearing ‘Sorry, that doesn’t work for me’.
+
+
+- I have the right to be a part of discussions about decisions that affect me, wherever possible and practical. It is unfair to be told about changes in the form and rules of my relationships after the fact. While it is not reasonable for me to expect full decision-making partnership in all aspects of a couple’s primary relationship, for example, I do expect to be part of negotiations about the form my own relationship takes.
+
+Dating a couple or one half of a couple is a bit like being in a legislature of three lawmakers. There’s a risk of an inbuilt majority. Things may get debated, but what’s the point of debate if the outcome is a foregone conclusion?
+
+Generally voters like to see their politicians working together and finding common ground. There’s an element of that in CNM relationships. It’s generally better to try to work together so everyone’s wants and needs are met as far as is possible.
+
+Take Zul and Anushka, the primaries in this example: If they expect a say in whether Anushka’s boyfriend Ian moves away for a new job, then it seems logical that Ian should have a similar say on whether Anushka moves away to follow Zul to his new job. Reciprocity is always a good rule of thumb. But perhaps a better approach is to discuss ahead of time what areas of one another’s’ lives Zul, Anushka and Ian expect a say in and what they don’t.
+
+
+- I have a right and responsibility to set clear limits on the obligations I am making. My having no other partners does not mean all of my time and resources are available. Just as I, as a secondary, cannot expect to monopolise all of my partner’s time, my partner cannot expect to monopolise all of mine. Sadly, people take advantage of others. The power dynamics in a two vs. one situation mean the one needs to be especially prepared to set good boundaries.
+- I have the right to ask my partners to compromise and seek to reach a middle ground when possible. I should not be the only one to do all of the bending.
+
+Again, this wouldn’t need saying if people always took the honesty, integrity, compassion and sensitivity principles to heart. All too often we enter into complex personal arrangements with too little thought to the ramifications for ourselves and others. There needs to be plenty of room for everyone to deal with ‘events, dear boy’. In relationships, a good deal is only a good deal when it’s good for everyone.
+
+
+- I have the right to have relationships with people, not with relationships. That is, I have the right to conduct my relationship with a living, thinking human being rather than with an established relationship or a set of rules. I have the right to time with each individual separately as well as in a group.
+- I have the right to expect that plans made with my partner will not be changed at the last minute just because a primary partner has had a bad day. As a secondary, I deal with most of my bad days alone and have the right to expect last-minute changes in plans to happen only in rare and unavoidable situations.
+
+And the primary partner(s) should also be able to expect a similarly reasonable degree of reliability. It definitely becomes an issue if one person pulls rank, or makes a fuss and expects the world to shift on its axis for them, but wouldn’t countenance the same from their metamour.
+
+If a new partner or a partner in an existing relationship needs a high degree of support it is important that everyone knows from the outset so they can ask themselves if they can be fair and/or understanding in those circumstances, though inevitably problems can arise if people find the reality harder than they expected.
+
+
+- I have the right to a balance between what I give to the relationship and what is given back to me.
+- I have the right to be treated as an equal individual (which is different than being an equal partner). I deserve to have my partner spend time in my world as well as visiting his/hers/theirs. My likes, dislikes, desires, and hang-ups should not be dismissed simply because I am secondary.
+
+It’s not unreasonable to expect reciprocation; a little of what you like, a little of what I like. Again this holds equally true in monogamous relationships.
+
+
+- I have the right to enjoy NRE (within reason), passion, and special moments with my partner without guilt or apologies.
+
+The ‘within reason’ is telling, as we’ll see in the chapter on NRE—New Relationship Energy. It’s exciting to be newly in love, and not to be allowed to enjoy that excitement is to be denied an important and fundamental human experience. However, as we all know, being in love doesn’t give one carte blanche to be self-centred and inconsiderate. Indeed, managing the feelings of existing partners is a key aspect of enjoying NRE in a consensually non-monogamous setting.
+
+
+- I have the right to privacy. The details of physical intimacy and emotionally intimate conversations should not be shared without my knowledge and ideally not without my consent. This does not mean I have the right to keep secrets from the other people involved; it merely means that whatever rights to basic privacy they may enjoy, I may enjoy as well.
+
+Certainly if some people have all the information and others don’t, if the privacy of one is respected and that of another is not, it makes it difficult to have a just and fair relationship.
+
+
+- I have the right to be told the truth at all times. This includes a right to know about fears, doubts and concerns as they arise, not after they become insurmountable. Don’t tell me what you think I want to hear; tell the truth—that is what I need to hear.
+
+In the absence of the best available information, someone can’t give informed consent.
+
+
+- I have the right to have and express all of my emotions. I accept that being secondary may place limits on many things (such as sharing others’’ family holidays or vacations, or having them with me in my times of crisis or celebration). My acceptance of that possibility does not mean that I won’t be disappointed or sad. Further, being secondary comes with some built-in challenges to security, and there may be times I need reassurance as to how and where I fit into my partner’s world.
+
+This is an age-old conundrum, and once again not specific to consensual non-monogamy. As one thoughtful writer, talking (as it happens) about the impact of childhood trauma on adult adoptees, put it (and I paraphrase): ‘It may be completely understandable that you feel like this, and that you neither invited nor deserved the things that happened to you, but that doesn’t mean anybody is going to want to put up with your shit.’
+
+For me that’s it in a nutshell. We’re all dealt a hand in life and some people just get dealt a terrible hand. They’re abused, they’re traumatised and good people do their best to make the world a better, fairer and more just place and support those who need it. But… and here’s the but… no one is obliged to put up with unreasonable, let alone abusive behaviour from someone else even though it may be understandable (as in comprehensible).
+
+So on the one hand we all have the right to our feelings but at the same time we have a responsibility to be sufficiently emotionally continent that others can work with us to resolve problems.
+
+The flip side of that is that we do need to respect displays of emotion equally from people regardless of their gender, skin colour, age, ability or orientation. We live in a world, in the West anyway, where it seems that the only acceptable anger is white male anger. The anger of women, people of Asian, African, Indigenous and Latin American origin, the anger of queer people and the disabled, is uncomfortable to the point of being unacceptable. It’s hardly surprising it’s uncomfortable. It’s often righteous anger borne of injustice, and that’s hard to deal with if you’re benefitting in some way from that injustice, even unwittingly or unwillingly.
+
+
+- When I am in a relationship with one person, I am in some relationship with all the other people that person is involved with, especially the primary partner(s)—even if there is no romantic connection between us. If I am resented in any way by them, that resentment serves to undermine my relationship with another and keep it from being “real.” Resentment should not creep into rules and definitions that are set in place.
+
+Yes, if you’re not wanted by your partner’s other partner, or by their friends or parents or whatever, that does have an effect on you. However it’s a fact of life, whether you’re celibate, single, monogamous or non-monogamous, that not everybody will always like you. Regardless, you deserve to be treated decently. Conversely, it’s your responsibility to accept that if you and they don’t get along, if only for the sake of the person you both love/adore/shag frantically, you do your best to get along.
+
+
+- I have the right to have a voice in the form my relationship takes. Even when I am joining a pre-existing relationship, I have a right to have some say in the time I can spend with my lover and other things about the form and structure of that relationship. If my partners attempt to impose pre-existing agreements about the form, time, or circumstances under which I may spend time with my lover, I have a right to speak up if those agreements do not meet my needs.
+
+### A More Universal Foundation
+
+The *Bill of* *Rights* from the More than Two website is a very personal document, but we’re not short of more universal statements of rights to draw on.
+
+As we know, the golden rule and its variants have shaped religions and philosophies in most corners of the world as Confucianism, Hinduism and Buddhism, and the great Abrahamic faiths; Judaism, Christianity and Islam, attest.
+
+The development of our present understanding of human rights is usually traced through a series of events, largely in the West, that include the signing of Magna Carta (1215) at Runnymede, the Putney Debates (1647) by the Thames in London, the adoption of The Bill of Rights (1689) by the English Parliament, the Declaration of Independence (1776) of the United States, The Declaration of the Rights of Man and the Citizen (1789) in Revolutionary France, and the publication of the first ten amendments to the US constitution that is also known as The Bill of Rights (1789).
+
+In 1948 a United Nations Committee under the auspices of its chair Eleanor Roosevelt produced the Universal Declaration of Human Rights that gave many of the principles expressed in those earlier declarations new voice and new authority in a world still sober after the atrocities of the Second World War. It was drawn up by delegates from countries as diverse as China, Lebanon, France and Chile, with the Indian feminist Hansa Mehta prevailing upon the committee to make the declaration less gendered.
+
+And for the last three quarters of a century it has remained the world’s touchstone for its peoples’ rights, freedoms and for what it means to respect a person.
+
+So here are those of its principles that I think apply in relationships (with my comments).
+
+- Article 1. All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+People are autonomous individuals. Respect that. No person’s dignity and wellbeing are ever innately lesser than another’s. Some people’s needs (as opposed to wants) are sometimes greater than those of others. but even if you can’t or won’t meet those needs, there’s no excuse for belittling or denigrating someone or for failing to respect their integrity as a human being.
+
+- Article 2. Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+Simple really; you aren’t a lesser person because your skin is brown or you have a vagina, or you use a wheelchair, or you love differently than someone else, or you hail from a ‘shithole country’. People are to be judged by their actions, not by their origins or immutable characteristics. Please don’t treat people otherwise.
+
+- Article 3. Everyone has the right to life, liberty and security of person.
+Though ‘security of person’ in this context relates to habeas corpus and the right not to be subject to arbitrary arrest, we could equally apply it to the right to freedom from violence, fear, coercion and insecurity in the home and from those closest to you.
+
+- Article 4. No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.
+Coercion doesn’t always take such egregious forms. We shouldn’t treat anyone as our servant.[^footnote-059] Just because you’re dating someone doesn’t mean you can coerce them to look after you and your stuff and do your work because your mum did it for you and you somehow concluded it’s your birth right. Such things require negotiation as equals and wholehearted consent.
+
+- Article 5. No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+In the context of a relationship this absolutely means no physical or mental abuse or coercive control. It’s repellent.
+
+- Article 7. All are equal before the law and are entitled without any discrimination to equal protection of the law.
+Equal rights. Whatever is fundamentally reasonable for one is fundamentally reasonable for another.
+
+- Article 10. Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal.
+Just a gentle reminder that you and your partner are not a fair and impartial judge, jury and executioner when it comes to making decisions about another partner or about each other’s behaviour. It also establishes an important principle (as we’ll see later) for how communities, like the swinging or CNM communities should handle disputes and accusations.
+
+- Article 12. No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation.
+Don’t read your partner’s email or your metamour’s email without asking. Respect their space. Respect them. You should reasonably expect the same in return. There are apparently some in the poly community who insist on oversight of all communications between their partner(s) and metamour(s). This is not just intrusive and indicative of a lack of trust. It’s controlling. It should be unacceptable.
+
+- Article 17. (1) Everyone has the right to own property alone as well as in association with others. (2) No one shall be arbitrarily deprived of his property.
+Your partner’s or metamour’s stuff is theirs, not yours.
+
+- Article 18. Everyone has the right to freedom of thought, conscience and religion.
+If someone disagrees with you, especially if their views don’t threaten the fundamental rights of others, remember it’s okay to disagree. If you find their views repellent you can challenge them (respectfully) or withdraw. Forcing someone to ‘agree’ with you is not cool.
+
+- Article 19. Everyone has the right to freedom of opinion and expression.
+See 18. Plus people have a right to a voice and to be heard. Within wide bounds, people also have a right to be wrong. No one should be silenced by fear.
+
+I do accept the limitations of taking a grand declaration of human rights and applying it to the microcosm of two, three, four people and their intimates—but working from principles that have been tried and tested gives you a firm foundation on which to base sound judgements.
+
+### And My Own
+
+Finally, to close, here’s my own three and a quarter groats’ worth. These are less principles more notes in the margins of the above, if you like.[^footnote-058]
+
+***1.*** ***It all starts and ends with consent.*** If people aren’t giving wholehearted and informed consent to something, you’re skating on thin ice. If you’re saying or hearing ‘Well, I’d prefer…’ or ‘I’m not sure…’ then best slow down and wait for that consent.
+
+***2. Other people have all the rights you would ascribe to yourself.*** They are as real as you, even those you don’t know yet. Life is not a video game (though there’s an interesting philosophical point right there—and possibly a movie). As I mentioned at the outset of the book, ‘Do as you would be done by’ is an ethical foundation that has weathered the ages.
+
+***3. Rules are problematic, agreements are inclusive.*** Dating someone(s) who makes, interprets, judges upon, and enforces rules is disempowering. Some people do seek out a relationship in which they play a wholly submissive role. This is at the heart of the D/s kink dynamic, and even then it is all based on the sub’s consent. However plenty of people find themselves tolerating a relationship where they have very little say when this is not what they want. Talk, discuss, negotiate, seek compromise. Respect other people’s agency—and require respect for your own.
+
+***4. Be clear about boundaries and expectations,*** both yours and others’. If you have red lines (regarding yourself), make these clear at the outset, ideally at first meeting. Likewise, if you do intend to impose ‘rules’ on others—give them plenty of opportunity to run away screaming. Don’t wait until someone is emotionally invested to spring it on them. Make sure the other party or parties have a clear and easy exit to leave with dignity if they don’t like what’s on offer.
+
+***5. Don’t stop communicating.*** In most CNM relationships, constant communication and negotiation are a given. You may have stated your needs, boundaries and expectations once. Once is not enough. Don’t assume. Check in. Check often.
+
+***6.*** ***Feelings change.*** People find themselves wanting more or less. Whatever you agree now is contingent. If circumstances change so may people’s wants, needs, desires and dreams. In the realm of love and sex, no agreement is binding beyond the point where one or more people withdraw their consent to it. If you can be flexible and still be content, be flexible. If being asked to be flexible beyond a certain point makes you unhappy or uncomfortable, you’re under no obligation.
+
+***7. People change. Let them.*** Those you love evolve and grow. So do relationships. Give people and relationships the room to find their own expression and level.
+
+***8. Mutuality is a foundation stone*** for most successful relationships. If one of you wants something very different from another, such as levels of commitment or ways of living, then to have a successful, healthy relationship may require you both to step back. Just being friends is a great option in many circumstances.
+
+***9. It’s okay to prioritise.*** Recognising *the equality of everyone’s humanity* is essential but that doesn’t mean everyone is equally important in your life. However it helps if you make your priorities clear from the beginning. Sometimes priorities change. If this happens, kindness, compassion, and clear communication can make a potentially difficult situation less so.
+
+***10. Be honest.*** Give people the information they need and the means to make well-informed decisions. They may not like what they hear, and you may not like what they decide, but it’s important to ensure that everyone has agency. Without honesty how can there be true consent? Better to deal with some disappointment now than more disappointment and heartbreak later.
+
+---
+
+[^footnote-060]: A Proposed Secondary’s Bill of Rights, More Than Two - https://www.morethantwo.com/polyforsecondaries.html#bor
+[^footnote-059]: …and no this isn’t the right place to say ‘but what about my ‘master/slave’ relationship?’.
+[^footnote-058]: Groats not goats. Goats are the ones that nibble a hole in your pocket, groats are what fall out of the now-nibbled pocket.

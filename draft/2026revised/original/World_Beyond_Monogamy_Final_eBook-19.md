@@ -1,0 +1,174 @@
+## Chapter Eleven: Opening Up A Relationship
+
+One of the most common scenarios in consensual non-monogamy is a couple deciding to open their relationship. Why common? Because the couple is the default configuration in our society and because of all the reasons mentioned earlier—people feel the need to grow, they and their partner’s sexual needs have diverged, they realise they’re still attracted to other people, they yearn for emotional and/or sexual novelty, they want to explore other people’s worlds or a sexual kink or orientation that can’t be expressed in their relationship, or they fall in love with someone new. People often reach a point at which they find themselves rattling the bars of their monogamous cage.
+
+Once the choices were stark: suffer, cheat, or split. Yes, there have always been people who’ve had unconventional arrangements, but they’ve barely been on the radar of their contemporaries. If you were part of the Bloomsbury set in the 1920s you might have been aware of other options, but if you’d been living in a quiet cul-de-sac in Purley or Peoria or Puchong you’d be forgiven for not thinking ‘Why don’t we form a triad or a nice cosy poly family?’
+
+But you’re here, reading this. Perhaps that has something to do with the vastly increased public awareness about consensually non-monogamous options. That’s at least partly due to an increasingly vocal poly/CNM community and a more engaged media. People have discovered that other choices exist, and work, at least for some.
+
+This is not to discount the value of maintaining a monogamous relationship while trying to address any stresses. If monogamy is your choice and you’re willing to work at addressing your or your partner’s desire(s) for novelty, growth, and freedom within a monogamous framework, it’s clearly possible to make it work. Nor is opening up a cure-all for monogamous relationships under stress. As Eunice, a professional in her thirties living in London, points out:
+
+> You’ve been with [someone] for 20 years and you want to open up that relationship. The first thing you need to do is make sure that relationship is stable, because ‘relationship broken, add more people’ is sort of an in-joke. But people do it, in the same way that they do ‘relationship broken, add a baby’ and that does not work. Relationship broken add more partners is a bad approach because you briefly duct-tape over the cracks and then sooner or later, the underlying issues seep out.
+
+I’m going to maintain a sceptical tone throughout this book: sceptical about monogamy and sceptical about the alternatives because sceptical is what you should be too. Just as fools rush into monogamous relationships, they also rush into non-monogamous ones. The feelings we experience when we meet someone new and feel very attracted to them have evolved to make us (forgive me, I say this because like many people I’ve been there) temporarily stupid—because evolution is shaped by individuals who reproduce even more than those who survive. None of the relationship options we have are perfect and few are simple, except perhaps simply bonding together for survival and just being grateful for being alive. Humanity has gone a long way on that. But if it’s self-actualisation through personal relationships you’re after, steel yourself.
+
+So, first of all, what can go wrong with opening an existing relationship?
+
+Let’s start with the bleedin’ obvious and proceed from there.
+
+As Eunice explains, often one person in a couple wants to open the relationship and the other doesn’t.
+
+> No two people feel the urge to do a particular thing with exactly the same amount of enthusiasm. Even if both are enthusiastic, one is just a touch more enthusiastic or maybe one is just a touch more determined or maybe one is a touch more likely to find the sorts of new partners they’re interested in than the other. And this is not to say that it’s going to be a major issue with every couple. But it happens.
+
+> It particularly has a potential to be a problem if one partner is opening up almost on sufferance in order to keep the other partner, which does occasionally happen. I will go polyamorous because if I don’t…
+
+> …my partner may leave me.
+
+It comes back to consent. If both partners do not wholeheartedly and enthusiastically consent to opening up you have a problem. Either the person who is less into the idea goes along with it to keep their relationship alive, or they decline to do so. In which case the other partner either accepts remaining (possibly unhappily) within a monogamous setup, or they put the idea to one side in the hope of a better moment or change of heart, or they end the relationship.
+
+Joreth Innkeeper is a poly activist from Florida and has seen this sort of dynamic play out numerous times with similar results.
+
+> It’s usually a train wreck. In my experience what then happens is the person who is not so keen on [opening up] tries any number of tactics from the overt to the subconscious to sabotage the attempts, and pretty much everybody gets hurt that way.
+
+Franklin Veaux, who co-authored *More Than Two,* one of the most widely read books about consensual non-monogamy, agrees strongly[^footnote-035].
+
+> Oh man! I’ve seen this happen so many times. Usually we grow up steeped in this culture that says ‘There’s one right way to have a relationship and that is monogamy’. So as soon as somebody says, ‘Well, we’ve been together for however many years but I would like to be polyamorous now’, that person is wrong.
+
+> And it becomes very easy for the person who wants the traditional relationship to blame them, to shame them, to enlist the help of their friends and say ‘Look at this terrible thing my partner is doing to me’. And so, you start off with this framework of shame and blame, a good guy and a bad guy. And even when that doesn’t happen, you’ve got an inbuilt tension within the relationship because the two people want two fundamentally incompatible things.
+
+> It’s not like you can meet halfway; you can’t have a relationship that is simultaneously open and closed. Either it’s going to become open, in which case one partner will likely be unhappy, or it’s going to remain monogamous, and the other partner will be unhappy.
+
+> I’ve seen people hold it together for a few years, but I don’t know that I have ever seen any relationship that went polyamorous because [only] one person wanted it manage to last longer than a few years. You will get situations where people will try to compromise. So, they will be non-monogamous but they’ll place fences around the relationship—for instance a rule that you can shag other people but you can’t fall in love. If you could pass rules on how someone feels, that might be nice, but it doesn’t quite work that way.
+
+> So, I would say that usually such a relationship is doomed. Compatibility in relationships matters. People have this idea that love conquers all and love is the answer, and it’s bullshit. *Compatibility* matters, and when people grow and change in ways that make them incompatible sometimes the relationship ends, and it doesn’t mean that anybody is a bad guy.
+
+> And the thing that is really kind of fucked up, is that you will inevitably get, when the relationship ends, a tremendous amount of blame for the person who wanted non-monogamy. Sometimes it’s okay to just acknowledge ‘We really loved each other, we were great for each other for however many years we were together. We want fundamentally and irreconcilably different things now.’ It is heartbreaking, but it happens. And the ability to grapple with that directly and say ‘Look, we don’t want the same things anymore,’ is part of being a mature human being.
+
+The author Anita Cassidy is in her early forties, lives in London, and runs a website supporting alternative relationships. She found herself in exactly this position. A few years earlier she reached a point in her life where she wanted to explore non-monogamy and her then-husband didn’t.
+
+> Basically ‘Sam’ and I agreed in our eighth year to open the marriage up to my dating, essentially. It was something that I think he felt at the time would meet some of my different sexual needs. I’m bisexual as well, so, certainly I was dating women that year and still am now. We spent a year and a half basically with my dating and him not really wanting to, which is absolutely fine, but the further I explored the path of openness and polyamory, the more I read, the more I learned about myself, the more it became clear that his and my relationship, whilst it was a very functional one as co-parents, really didn’t work on a romantic and sexual level anymore.
+
+> And we agreed to separate in September 2017 and we are in the process this year, 2018, of getting divorced, and very amicably most of the time. We remain friends and great co-parents. I think what I learned is that you can’t ever really control the consequences of choices you make. I chose to open things up and chose to make changes not realising quite the size and the scale of what I was opening myself up to, the degree to which everything about myself and my world would change and transform from that one moment. And I guess in terms of advice—we made so many mistakes and I’m still making mistakes now—what I say to people when they’re talking about opening an existing relationship and just exploring any kind of alternative framework is, ‘Take your time, take it slow, take it steady and take care of each other’s feelings.’
+
+> I was very thoughtless at times, I was so keen to explore something that I was super excited about. But I trampled over ‘Sam’s’ feelings on a daily basis, I would say for a long time, and I’m not proud of that. I think getting support is helpful as well. I would have gone about it very differently if I’d had a professional to talk to. I would definitely recommend seeking out the likes of that through something like *Pink Therapy* or an open-relationship or poly-friendly therapist or support person to help navigate those changes together.
+
+Joreth Innkeeper argues that in those circumstances there is a tendency for the couple (though this could apply to a relationship with more than two people in it) to put their existing relationship first and defend it against external threats.
+
+> It comes down to the fact that everyone has subsumed their identity into the relationship. The relationship becomes its own entity which needs to be fed and nurtured, often at the expense of the people who are in it. So, what these people tend to do is do whatever it takes to keep the relationship from ending at the expense of everybody else’s own wants, desires, needs and even their own existence. So, the goal there seems to be just keeping the relationship intact.
+
+That often makes things very hard for an outside person who finds themselves in a relationship with one or both members of a troubled couple (something we’ll come back to later). All too often they’re not having two relationships with two autonomous individuals. They’re having a relationship (at least in part) with a two-headed, four-armed quadruped called SamandDimphna or TrevandDave or whatever, and it’s hard for that to be a relationship of three equals. Joreth thinks that dynamic is hard to break down without first deconstructing the original relationship.
+
+> In my observation, they have already given up their bodily autonomy and their emotional autonomy and they have merged into one unit. And so, their forays into non-monogamy tend to act as if they are one unit, which means that they can’t have ethical relationships because they’re not respecting anybody’s autonomy including their own.
+
+> So, my recommendation is that people don’t ‘open up’, because [that makes] people tend to think that their relationship is its own entity and all they have to do is expand it to include a third person. And then it is still a single entity comprised of three people, and that dismisses the agency of everybody involved. So, I recommend that people [in a couple] deconstruct and then reconstruct their relationship as one made of individual people who are relating to each other. And then go out and have individual relationships with individual people.
+
+If you’re part of a couple, that may make you blanch. It’s hardly unusual that the longer a dyad—a couple—has been an entity the more it takes on a life and identity of its own. The two people are already bumping up against the things that led them to want to open their relationship, and now they’re being told they have to break it apart and start again with another person involved? Of course they may feel apprehensive. Just as they’re making this foray into uncharted territory, they’re being asked to take apart the source of comfort and security that was supposed to underpin this adventure.
+
+However, even if unlacing an existing relationship in order to remake it seems like a big undertaking, it’s still a useful thought experiment. Just think about all the things you do as a couple that give your relationship its identity. Perhaps you have pizza night once a month, or you go together to each new superhero movie as it comes out. Relationships are often built around these things. But as well as being small rituals that lend form and strength to a relationship, they can also exclude.
+
+So, do you keep your traditions to the two of you, invite your third in, or invent new ones? What if they hate pizza and superheroes? Or suppose dates clash with pizza night or one of you wants to see a Marvel movie with a new squeeze?
+
+These ostensibly trivial problems point to rather more serious ones. If you already live with one partner, what will be the status of a new partner (or partners) in your home? Are they your guest(s) at dinner, or are they part of the family and expected to contribute groceries and help cook? Do they treat it as their home too? Do they contribute to the mortgage expecting to gain equity in the house, or do they pay rent instead? Who gets the best bedroom? Who can bring guests back?
+
+There is no right way that suits everyone, but this is intended as a taster for some of the practical issues that might get in the way of a romantic adventure. If you’re single it may matter less who pays for dinner, but if you’re consensually non-monogamous and your cohabiting primary partner sees their other lover(s) only once in a blue moon while yours is around two or three nights a week, clearing out the fridge, you can probably see the potential for resentment. Once again, you see why so many consensually non-monogamous people put so much emphasis on open, honest and kind communication.
+
+Eunice found CNM having consciously stayed single for a year after a breakup, figuring out what she wanted. She very quickly found herself in a number of relationships, three of which lasted the next ten years. With the benefit of hindsight she advises being very clear about what one wants.
+
+> There’s not one single checklist that works for everybody, but [there are] things that pretty much everybody needs to have considered before going into this type of change. Because it is a big change. If you are opening up your relationship and it’s not in some way a little bit scary and a big change, then you’re not really opening up your relationship.
+
+> Things like thinking about what a really ethical relationship looks like. What does that mean, and especially what does that mean to you? How would you show this? How would your actions show that you are gaining the consent of everybody around you?
+
+> How can you make sure that you are not treating your current partner, your future partners, their future partners in ways that will disempower them? Another thing you need to consider is what is it you’re really looking for? What would be the minimum, at least, that you need in a relationship to be happy and fulfilled?
+
+Eunice has a really good, if not exhaustive, list of questions.
+
+> Some people think, ‘What am I not currently getting?’ and again, I would like to say that there are very few poly-specific issues. Even if you’re monogamous, you can think, ‘Oh, I’m not getting to do *x*. My partner doesn’t share this interest. I will just go out and have friends who do this.’
+
+> I don’t necessarily suggest looking for a new partner with a checklist of ‘You must do this, you must be this, you must have this’. People are not there just to fulfil your needs. I like to think of it as a more holistic, ‘What do I need from my relationships?’ Because every partner that you will have will mesh with you in slightly different ways. They will fulfil slightly different needs whilst you’re fulfilling slightly different of their needs to any other partner they have.
+
+> So it’s good to think, ‘What are my deal makers in a relationship?’ Everyone has things that they require in order to be happy and fulfilled and satisfied. If you didn’t, that would be very unhealthy. It isn’t saying that the only types of relationships are these big, romantic and sexually intimate ones where you see each other every day and you talk every day. But if you’re the sort of person that needs *y* in a relationship, that needs to be something that comes out pretty quickly, if you’re talking to a new person.
+
+> Also, when you are checking in with your current partner, which you should be doing on a regular basis anyway, if this revelation about exactly what you need in your relationship comes out, this needs to be a topic of conversation.
+
+Shelly and her husband also took their time. They got together around the turn of the millennium and, for the first eight years or so, had a fairly standard monogamous relationship. Then they started reading about non-monogamy together and then, over the course of three years, discussed what opening up their relationship might mean, to the point of writing a new set of vows to complement the ones they made when they got married.
+
+Others dive in having found a degree of mutuality from the outset. Philadelphia-based Kevin Patterson is author of the superlative *Love’s Not Color Blind* and co-author of the *For Hire* series of SF novels. For him and his wife, the issue came up early in their relationship and it turned out that they were very much on the same page.
+
+> It was sort of a joke. My then-girlfriend, now-wife, and I had only been dating for a few months and we were going on a road trip with friends to party in Toronto. I made a joke that something wild might happen between me, my wife and a friend of hers. I didn’t really specify what I meant, but my wife took it a little bit more seriously than I did. So when the opportunity happened for the three of us to hook up we all went for it. We spent the whole trip back trying to figure out whether or not exclusivity was important to us and it just sort of wasn’t. After that we were just off the path and we stayed there.
+
+Sometimes things working out is more luck than judgement. Kevin and his wife were at a stage of their relationship when it could flex and adapt. Perhaps it was intuition that told them it would work, but their relationship has certainly remained strong.
+
+Vincent and Mia were, perhaps, even more gung ho.
+
+> *Mia:* At the start we didn’t really go in depth into what we wanted to do. We just jumped straight into it and off we went on our adventures. And we came back and reconnected, and that’s where we started finding out that there were a lot of things that we were uncomfortable with.
+
+> *Vincent:* When we started the whole open thing we didn’t establish what the boundaries were. We didn’t really know what we were doing, so we had different notions about what having an open relationship meant. At the core of it I think we both realised we both wanted to be emotionally exclusive and work outwards from that. Still kind of in the dark, but as time goes on you have a clearer picture of where the boundaries are.
+
+For Seb, a forty-something international corporate lawyer originally from Johannesburg, opening his relationship was the unexpected consequence of a drunken evening. It was luck, rather than judgement, that non-monogamy suited both him and his wife.
+
+> It happened accidentally with us, although we had discussed it in the abstract before. We had a very unexpected threesome, very definitely my first—I had a conservative sexual upbringing in South Africa—and after that, when I realised that it wasn’t going to spell the end of the relationship, we had the conversation about polyamory ex post facto. But the lessons that I’d want to share would definitely apply if you’re having a more sensible conversation in advance. And that is to start with as much honesty as you possibly can, because you’re going to need that in the open relationship going forward, including as clear an articulation [as you can manage] of your goals and your reasons for wanting to do this, so that your partner fully understands what you want from your side. That can only make the process of opening up the relationship easier. It’s much, much better in my own experience to start off communicating absolutely everything. Then it’s always possible to dial some of that down at a later stage, if you decide that you’re comfortable with and trust the other person on matters of communication.
+
+Ivan and Yana are from Russia but now live in South East Asia. Ivan works in IT, Yana is a barber. Their journey into consensual non-monogamy lies somewhere between that of Shelly and Kevin. It wasn’t wholly spontaneous, but it hadn’t been deeply discussed. But again, it worked. I sat down with them and asked how they set out on the path to opening up their relationship.
+
+> *Ivan:* So basically the story goes like this; so we are married for a very long time, I think it’s eight years this year. I have developed certain urges, and I have talked about this… well I don’t talk about sex very often so I hide my embarrassment by making jokes. So basically the milestones of our journey are that [first] we have decided to open our marriage, [then] we, so to say, fucked around, and then, when we have figured out that there is more to it than just having other people in your pants, we looked up polyamory on Wikipedia, learned new words, realised you can love other people too, created accounts on dating sites, looked for other people and with varying degrees of success have found our partners. So I have found Alexandra on tinder, and we have been happily together for three years now. I would say that I am a happy polyamorous person now, where I have two partners in my life and I love them both and I think that has improved my life greatly.
+
+> *Jonathan:* When you first started talking about this, had you already reached the same conclusions?
+
+> *Yana:* it actually happened during breakfast, oatmeal porridge with blueberries, that was our usual breakfast during that time. So, it was just like; “Is it okay if we start seeing other people?” “Yeah I think that’s okay, yeah let’s do it.” “Yeah let’s try it.” “Okay good. Then I’m off to work.” “Yeah sure.”(Laughs) Yeah so that’s about it.
+
+> And I think for Ivan it happened faster than for me because he had someone on his mind and that person was coming over. I was supportive and happy for them. I was looking forward to it and I remember making jokes and asking questions; so guys when are you going to do this? Don’t be so shy in front of me. And stuff like that. I think that made them feel super awkward and uncomfortable. But because it was our first experience we made a lot of mistakes, no I wouldn’t call them mistakes but there were things that could have been done better. It was a learning process.
+
+> *Ivan:* I would like to add that in my opinion it wasn’t as spontaneous as Yana says. Indeed the decision was made over breakfast, but we did have conversations around that topic for a little bit before that. More like a theoretical exercise.
+
+> *Yana:* I don’t really remember that though. But I remember the porridge. The porridge of fate.
+
+### Do Relationships Your Way
+
+Shelly and her husband and, with time, Ivan and Yana, arrived at some of the best lessons of consensual non-monogamy, lessons that could be usefully applied to all sorts of relationships, not least monogamous ones.
+
+Back in 2013 *Scientific American* published an article suggesting just that. It quoted Bjarne Holmes, a psychologist at Champlain College in the US state of Vermont, saying;
+
+> “People in [non-monogamous] relationships really communicate. They communicate to death. They are potentially doing quite a lot of things that could turn out to be things that if people who are practicing monogamy did more of, their relationships would actually be better off.”[^footnote-034]
+
+And that’s why I’ve subtitled the book as I have; *‘How people make polyamory and open relationships work and what we can all learn from them*’. Because, in many ways, in the absence of generally accepted blueprints for how to do non-monogamy well, non-monogamous people are continually creating, debating and refining them. There’s much less room for the assumed and the unspoken in consensual non-monogamy because, as we’ll see, it has so many different permutations. Two people who think they are on the same page may be assuming different things
+
+If you have expectations that a new partner will want the same as you and you don’t bother to check in about it with them, don’t blame them for your eventual disappointment. Of course monogamous people want different things in a relationship too, but in monogamy there’s a clear, heavily signposted cultural path all the way from first date to full commitment. This well-trodden route is often termed ‘the relationship escalator’. You get on at the bottom with a first date, and if you stick with convention, it carries you all the way up through that first kiss, sleeping together, moving in, marriage, mortgage and children to umpteen anniversaries and death (though not necessarily in that order, especially if you’re into vampires). People are free to get off the relationship escalator anywhere along the way, but that typically involves a breakup, a painful tumble down the stairs, and then hopping back on at the bottom to start again with someone new.
+
+Non-monogamous people don’t have the luxury, or perhaps the constraints, of such a well-worn and widely understood path. They’ve ventured off-piste.
+
+In one episode of journalist Tim Harford’s (excellent) podcast Cautionary Tales, he considers the creative impact of unsettling environments. One example he draws on is of jazz pianist Keith Jarrett’s 1975 Cologne concert. Jarrett, a perfectionist, had driven 350 miles from Zurich, was sleep deprived and suffering from back pain, only for the Cologne Opera to present him with a terrible piano; neglected, out of tune, and way too quiet. Jarrett only performed because the 17-year-old promoter begged him to. Harford’s hypothesis is that being off-balance, not having a road map, having to deal with adversity and new circumstances forces us to be creative. In the event *The K**ö**ln Concert* was only recorded because the engineers had already been hired and paid. It arguably produced Jarrett’s greatest recording, and it became the best-selling piano album of all time.
+
+Consensual non-monogamy forces people to think like that; to be creative in adversity. And, in reinventing relationships to accommodate non-monogamy, perhaps these people are helping to reinvent relationships, full stop (or ‘period’ as people on the desolate shores of North America would have it).
+
+Many monogamous people are still recovering from the idealised portrayal of the ‘modern’ marriage that became idealised in the 1950s as part of the drive to persuade women who’d broadened their horizons during the war to get back into the home. And oh, that home; suburban and nuclear, all faux-contentment, white goods and mind-numbing domestic drudgery, deadening gender roles and no room to confess to feelings and desires that fell short of that confected ideal.
+
+Well, listen up mono people; it doesn’t have to be that way. In the chapters that follow we’ll look at different ways of doing things. Some are more compatible with traditional coupledom than others. But the big ‘go-tos’ of non-monogamy—communication and negotiation and the ability to write the rules of your relationship your way—are absolute gold for anyone.
+
+Ultimately some of the best advice out there is to talk to people who’ve already walked the road. When Dr. Meg-John Barker talks about ‘holding it lightly’ (and possibly sniggers at this point…) they mean that by knowing there are options out there, one doesn’t cling quite so tightly to a narrow traditional set of possibilities when they’re not a good fit.
+
+> Whether you’re talking about bisexuality, about kink, about trans and non-binary and about non-monogamy, a lot of the time people have already been wondering about this stuff and it can really liberate somebody to find somebody else who’s talking about it openly.
+
+> It actually helps to start one thinking about it and maybe moving into doing things differently, because remaining in a straitjacket of monogamous, heterosexual cisgender-ism, that’s pretty hard for a lot of people. That doesn’t necessarily mean they’re going to be bisexual or polyamorous or kinky or trans, but they might start to hold those things a bit more lightly or do things a little bit differently. And so this whole concept of “monogamish”, for example, and opening up the space between monogamy and non-monogamy, is something that people are starting to do.
+
+For instance, even if you’re monogamous, knowing that the whole ‘till death us do part’ thing isn’t the only way might mean that you can be a bit gentler on yourselves. You might agree with your partner at the outset that, while you won’t go looking for other relationships or encounters, it’s something that could happen and that your relationship shouldn’t stand or fall on whether it does or not.
+
+Lots of us have been socialised to feel that exclusivity should be not just assumed, but a requirement. But to declare and live up to such ideals should be a positive, active choice for both parties if that’s what they explicitly agree they want. Knowing that some people do things differently, and do different things successfully, makes it easier, I think, for two people in a more traditional relationship to agree to something that suits *them,* rather than only being able to choose an off-the-peg arrangement.
+
+Kevin Patterson notes that CNM offers people dealing with very human feelings a wider range of responses:
+
+> When you’re monogamous, there are sort of expectations on behaviour. If I have feelings for somebody outside of my monogamous relationship, I’m expected to either push that away or to cheat and to lie. If I’m non-monogamous, that’s a conversation I have to have as opposed to something I have to let go.
+
+In some monogamous relationships, even ‘thoughtcrime’ is a violation. There are those for whom ‘You looked at her, I saw you!’ and ‘I know you flirt with that guy at the office,’ is a prelude that ends in a coda of smashed crockery. But you’d be amazed how intimate some people in monogamous relationships find being able to be real about being attracted to someone they saw and sharing that with their partner, even though there’s an understanding that neither will act on their attractions.
+
+A lot of consensually non-monogamous people, like Penny, a senior media professional from Jakarta, say that it has forced them to engage more deeply with their partner(s):
+
+> It’s a continuous learning process. It’s learning of giving trust or gaining trust, of gaining and giving respect in the much deeper level of each other as a partner, as a partner in life. We’ve been opening this relationship for almost seven years now, and it’s still a process. There’s always up and down, but what I can advise helps a lot, is communicate a lot, and if you want to get mad or you want to say something that is on your mind, if you’ve already having this deeper level of trust and understanding and respect, then it’s easy.
+
+That will be a recurring theme throughout this book: the depth of intimacy one can achieve through being honest and vulnerable. Again, this isn’t something that needs to be the sole province of the consensually non-monogamous.
+
+So here’s a takeaway for the monogamously inclined: Talk about what intimacy means for you both at the point where your relationship starts to feel serious. It’s important. The feeling that one can share anything and be accepted for it is powerfully bonding. Ask if there’s anything they don’t want to hear. If nothing else that will give you an idea of what struggles they might be having with insecurity or anxiety—two things we’ll talk more about when we look at jealousy.
+
+---
+
+[^footnote-035]: Since I interviewed Franklin Veaux, allegations of emotional abuse have been made against him. He denies the allegations.
+[^footnote-034]: ‘New Sexual Revolution: Polyamory May Be Good For You’, Stephanie Pappas, *Scientific American*, 14 Feb 2013.

@@ -1,0 +1,103 @@
+## Chapter Thirty-Three: Metamours
+
+> Metamour. *n*. One’s partner’s other partner(s). Someone to whom you are linked by virtue of sharing a romantic or sexual partner but where no direct romantic and sexual relationship is implied.
+
+> Metasqueeze. *n*. As per metamour but rather more informal.
+
+For some, metamours are one of the great unexpected blessings of consensual non-monogamy. For others they’re an inevitable but not necessarily welcome part of their partner’s seeing other people.
+
+What people new to consensual non-monogamy soon find is that their metamours, whether they’re present or not, can play a significant part in their lives.
+
+Sometimes a partner’s choice comes as a welcome relief: ‘Thank god he’s found someone who likes musicals. I’m not sure I could take seeing Cats again.’ Sometimes it’s a drain: ‘They’re so needy. She seems to spend all her time on the phone with them.’ Sometimes it’s outright antipathy; ‘Seriously, how could he date someone who voted for *him*?’ But there’s also the possibility of support you’d never anticipated, or a new friend.
+
+Seb, for instance, feels that having a sympathetic and supportive metamour can enhance one’s own relationship with a mutual partner.
+
+> Once you realise that someone can genuinely raise the collective happiness and quality of life for not just two of you, but all three of you, you realise that what would typically be seen as a negative is, if you’re a bit lucky, a positive if the right people are involved.
+
+Charlotte is one of those who thinks it’s better to engage with metamours whenever possible.
+
+> They’re really important. Poly is so much easier when you get on with your metamours, possibly even become platonic life partners with them.
+
+February 28th has even been designated Metamour Day (Feb 14 plus 14… - Double Valentine’s, geddit?) in honour of ‘polyamory’s most distinctive relationships’. Dr. Elisabeth Sheff, who has studied poly families for more than two decades, thinks success or failure of poly relationships often rides on metamour relations:
+
+> What has stood out to me about these families who remain together in long-term polycules is that the metamour relationships make or break the family over the long term. These emotionally intimate, non-sexual chosen family relationships are so important in polyamorous families that I made up the word *polyaffective* to describe them.
+
+> Positive polyaffective relationships among metamours who become chosen family over time are the backbone of the poly family. Metamours who can’t stand each other and are never able to establish comfort (much less delight) in each other’s presence are not going to happily coexist over the long term. Metamours who add value to each other’s lives, however, can not only support each other when life inevitably throws them a curve ball, but also support the polyamorous relationship with their mutual partner if it falls on hard times.
+
+There’s no doubt that a lot of poly people see a situation where metamours are close as an ideal worth pursuing. The Philadelphia-based author and educator Kevin Patterson, on the other hand, is not particularly fussed. For him a metamour is pretty much like anyone else he might meet. If he gels with them it’s someone new to hang with, if he doesn’t it’s no big deal.
+
+> I wouldn’t say they’re terribly important, but I do value the ones that I have. If I didn’t have a relationship with my metamours, I’d be fine. I wouldn’t cry myself to sleep over it. But I actually do have relationships with a couple of them and I like that. I like that I could watch football with one of my metamours. I like that I could just talk video games with another.
+
+Sometimes metamours bring something into one another’s lives that they both benefit from. For Nathan, his metamour Arty was a source of advice and wise words even if they didn’t make a huge effort to seek out one another’s company.
+
+> To say my metamours are non-standard implies that there is a standard metamour: doesn’t exist. We’re all just people living our lives. Arty is a good person to have in my life in that position. I really enjoy the time that I spend with him, the encounters I have with him, all the group stuff, it’s delightful. I don’t have a super friendship relationship, but when we’re in each other’s presence, we’re happy that the other is there or at least that’s my impression. He’s a very clever man, he could be planning on taking over the world. I do very much enjoy him in my life and when need be I talk to him about stuff. Things with our partner, things with his marriage, his relationships.
+
+Sometimes relationships just get difficult and metamours exacerbate that. Sometimes it’s the metamour that seems to be the problem. For Xena it was made more complicated by the fact that one of her friends became her metamour.
+
+> [My partner] was seeing two [other] girls at the time. I feel I had more difficulties with my friend. I think it’s got to do with because I have boundaries which I find they keep pushing at, and I feel like I was disrespected by them of my opinion and how I felt. But I felt okay with the other girl.
+
+> Maybe it was me that encouraged them. My ex was new to this and he didn’t know what it was. I told him many times it would have been more comfortable if, rather than dating another girl, it was my friend—because she already knew what it is like, how the rules work and that sort of thing. So I sort of encouraged it. And I also knew that my friend liked him. So I thought okay, I guess is better with you than with other girls. But after that I feel not so comfortable with things, and I couldn’t talk anymore with her, and they continue to dismiss my feelings and that kind of hurt me, and that’s when I fell out with everyone. The saddest thing was that they didn’t seem to care that it matters to me. My friends are like my family to me, that’s how I treat them, and then I feel like they both betrayed me. It’s a strong word but that’s how I feel.
+
+That is probably a fairly extreme example of what can go wrong, but most of us understand the capacity for human relationships to end up in conflict when strong feelings are involved. Where people are already bringing out the worst in one another, adding the ‘wrong’ people to the mix can easily end up as a total clusterfuck.
+
+It’s equally possible for more people, if they interact in positive ways, to really calm things down. Just as with any other sort of relationship, it ultimately comes down to how those involved interact.
+
+Joreth Innkeeper has seen a lot of metamour conflicts. She warns that rather than see the problem as inherently with the other, ultimately we have to ask ourselves what our reaction to them says about *us.*
+
+> I get into this discussion in the forums online all the time. People have a problem with their metamour. ‘What am I going to do about my metamour?’ ‘I don’t like this other person, what are we going to do about it?’ Ultimately, the problem is always between you and your partner.
+
+> Your partner likes that person, your partner finds something valuable about that person. What they find valuable about them may be a reflection on your partner. And if that is somehow incompatible, is that an incompatibility between you and your partner? And almost always metamour problems really come down to ‘Me and my partner are incompatible in this way’.
+
+Franklin Veaux provides an example:
+
+> If I was dating somebody and then she started dating some new person and that person was for example openly racist or openly homophobic or something like that, now, clearly I would not like that in that this new partner but if my partner thinks that’s okay, that tells me something about my partner where, you know, she and I have a problem.
+
+Your partner’s choice of other partners can tell you quite a lot about them, some of which might come as a surprise. It’s a good indication that you have things to talk about.
+
+Incompatibility aside, it can also point to other issues; someone may feel they aren’t getting enough attention or enough sex. It could highlight worries about money or a partner’s contribution to keeping the household on the road. But Joreth’s point is well made; these things generally relate to matters closer to home.
+
+So are there any good rules of thumb for getting on with your metamours? One thing to bear in mind, says Kevin, is to remember that (presumably) you all have at heart the happiness of the person you date in common.
+
+> Try to remember that you’re on ‘team shared partner’. My wife’s name is Antoinette. Everybody that’s connected to her, we’re all teammates on ‘team Antoinette’. Everyone that’s dating me, they’re all on ‘team Kevin’. Just remember that you are part of the team and that you’re a teammate. And if you can manage having, at a minimum, a polite relationship with this person, it benefits somebody that you both care about.
+
+It should go without saying that if you both care about someone then you don’t want to cause them unhappiness. So, if possible, address any conflict or issues you have with your metamours without forcing your partner to take sides—or to act as an intermediary. You may dislike a metamour, or perhaps you simply don’t particularly warm to them, but you do have an interest in getting things to work as well as practicably possible. However, as Meg-John Barker says, while there’s no one right approach, trying to find a pragmatic means of co-existence is sensible.
+
+> I’m wary of anything that says you *must* or you *ought* to do anything. But there’s a real practical element of if you’re two people in another person’s life and that person needs care, how are you going to manage that? If you’re not in contact at all and if you can’t say a pleasant word to each other that’s going to be rather difficult. So I think there’s something about needing to consider the wider system rather than just the dyad, with a sense of what are the connections while not trying to force people into anything. Again, that would be non-consensual. If you don’t actually have a very good connection with that person, you shouldn’t have to play board games with them every Saturday or have a threesome with them or anything else.
+
+There are times, however, when it’s not unreasonable to intervene. No one should stand by and say or do nothing while someone they know is subjected to abusive behaviour. It’s a judgement one needs to make carefully. Franklin Veaux:
+
+> If you feel like your partner is being abused, I think it is absolutely reasonable to sit down and say; ‘Look, I see this happening, this is really destructive, are you aware that this is going on?’ You can’t necessarily expect that they will do what you want them to do, of course. You can’t necessarily say, ‘Well I demand that you break up with this person’.
+
+There is a fine line between intervening to protect a partner and just plain interfering. It’s easy to get it wrong. If you can interrogate your motives that can help. If you’re in any doubt about whether you’re doing something for your own or your partner’s wellbeing, take a moment to reflect. But you don’t have to wait for them to come home with a black eye or in a state of terror, or to have their self-esteem wrecked, to speak up. If in doubt, think about checking in with mutual friends to get a slightly more dispassionate opinion.
+
+### Ripples in the Pond
+
+If you’re part of a network of emotionally related people, things that affect your metamours, even your meta-metamours, can affect you.
+
+All sorts of major life events—divorce, illness, bereavement, unemployment, financial and legal woes, crime and incarceration—can bring us low. Many of us have experience of supporting a partner through one or more of these situations.
+
+When you’re consensually non-monogamous the possibility, even the likelihood, arises that one of your partner’s other partners will need support at some point. That may mean that your partner has less time and emotional bandwidth for you.
+
+Many people already have the tools to cope with this. If you grew up with siblings, there may well have been moments when a brother or sister needed your parents’ undivided attention or support and you had to be more self-sufficient for a while. Attention is not a direct correlate of love. Just because someone’s focus is elsewhere it doesn’t mean they love you less. It means they’ve had to prioritise.
+
+There will also be situations when your partner experiences a breakup with another partner. There is no single right way of handling this, though sympathy and respect certainly help. It may be that you didn’t like your metamour very much. It happens. Try to remember that your partner *did.* If you’re glad that they split up there may come a moment when it’s appropriate to say ‘It was for the best’ or ‘I didn’t think they were very good for you’, but that moment will almost certainly not come until after they’ve finished grieving.
+
+There are situations where you may sympathise with your metamour rather than your partner. The people we love are not necessarily any more reasonable than anyone else, ourselves included. Is it acceptable to stay friends with a former metamour even after your partner has broken off contact? This will be a judgement only you can make, but generally I’d expect to hear from CNM people that our partners should not dictate to us who our friends are—and that goes for all of us, whether we’re monogamous or not.
+
+As already noted, one of the interesting features of consensual non-monogamy is that your partners’ choice of other partners will sometimes delight you, sometimes perplex you and sometimes appal you.
+
+Alice was very unhappy with some of her partner’s relationship choices because she felt that they were having a tangible impact on their own relationship, all the more so because her partner discouraged her from seeing other people.
+
+> There was one incident where he picked a much younger girl and I basically went, ‘She’s going to scream rape and you are going to be fucked because this girl is incredibly insecure.’ She was 19, I think there were huge daddy issues, very, very young, and he was like ‘Yes, but she’s hot’ and I’m like, ‘That’s precisely the point’.
+
+> And there was another girl who had emotional issues and he likes to be this knight in shining armour that tries to save women. And I say, ‘You can’t save everyone, start with yourself if you can’. So I had issues with these two particular women. It was just a threat that I felt would destabilise our relationship because we already had a lot of shit on our plate. I don’t need more, more drama to rock the boat.
+
+> Like he was speaking to women who were depressed and wanted to kill themselves and he was getting depressed, and I’m like, I’m already depressed. Why are you spending the time trying to save these women that can’t be saved. I’m sorry but find someone else. To the extent where he was complaining to me about these sorts of partners, I don’t want to hear about X, Y, Z’s problems, I have enough of my own.
+
+Thankfully, as often as not metamours are kindred spirits. People often have a type and it may be that they uncovered a pair (or more) of aces—of which you’re one. Alan, who is based on the US East Coast, has attended numerous poly conventions.
+
+> It’s kind of a known thing that when you see groups of three or four roaming a convention together, two of them sometimes look noticeably alike. I mean, like two brothers or two sisters or at least cousins. People do have a type, and when two of the type meet as metamours they may find they have a lot in common.
+
+I spent an afternoon down the pub with three of one of my interviewees’ partners while she was at a nearby event with a fourth, and they all knew each other well and got on like a house on fire. There were even occasions when they would intervene (nicely) with their mutual partner because they were concerned about one of the others’ wellbeing.
+
+For some, metamours can be a source of mutual support. It may seem counterintuitive to monogamous people who are, whether by inclination or socialisation, primed to see ‘rivals’ and ‘threats’ rather than allies when their partner shows an interest in someone else. Clearly it doesn’t have to be that way.

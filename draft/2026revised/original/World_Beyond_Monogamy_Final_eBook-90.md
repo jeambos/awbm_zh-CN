@@ -1,0 +1,17 @@
+## Chapter Seventy-Three: Going Monogamous
+
+The road from monogamy to non-monogamy is not one way. In a world of choices that allows you to choose to do things differently you also have the option to take the more conventional path having explored the scenic route for a while. People do.
+
+I’m highly skeptical when people say things like ‘once you’ve done that you’ll never want to go back’. Yes, it’s definitely true of some things. I was once dragged by a date into the M&Ms superstore on London’s Leicester Square. I never want to go back. Seriously.
+
+But relationships are thankfully not like that. If they were there would doubtless be a surge of interest in the monastic life. Consensual non-monogamy may be the promised land for some but for others, meh, not so much. Some will take one look and turn around, others will dip a toe in the water and decide it’s not for them, others may, as Maxine recalls, be wholly committed but then have a different sort of epiphany.
+
+> One of my partners had been a poly activist for about 10 years and left fairly abruptly having suddenly admitted to having fantasies about a monogamous white wedding for the entire time…  ran off into the sunset and got married. So, it was a bit of a surprise. But at the end of the day I believe that loving someone means wanting them to be happy and if that’s without me, then that’s fair enough though I didn’t quite understand it.
+
+For many of those I interviewed the CNM scene is a community; tight-knit and supportive. They don’t just have intimate relationships with partners but also close relationships with metamours. However, as with many marginal groups, there’s often a sense of solidarity, of sticking together against the world. It is a lot to give up.
+
+Thankfully, for the most part, it seems to be an understanding group. After all everything starts and ends with consent. People float in and out. Where there’s exclusion it’s often unintended exclusion. However, for those who choose to return to monogamy the wish to ‘leave it all behind’ can be strong, especially after heartbreak or where someone has struggled with the difficult feelings that consensual non-monogamy can provoke. This is hardly unique to CNM but will be very familiar to anyone who has given up a network of mutual friends after a break up.
+
+Doubtless, should consensual non-monogamy become more accepted the route in and out will be less like passing through an airlock and more like negotiating a revolving door. Indeed, for people who consider themselves ambiamorous, equally open to monogamy and polyamory, that will just destigmatise their reality, recognising it as a simple life choice and one not so heavily freighted as it is now.
+
+Until then, whether or not to be consensually non-monogamous will feel like a big decision to many people which is a pity because in all matters of the heart is not the ideal to be sufficiently unburdened that we’re free to explore others and grow into our greater selves as we do so?

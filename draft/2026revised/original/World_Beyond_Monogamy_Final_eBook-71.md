@@ -1,0 +1,79 @@
+## Chapter Fifty-Six: Commitments
+
+*Commitment* is one of those slightly confusing words because it has two closely related but subtly different meanings.
+
+In one sense a commitment is a measure of loyalty, dedication or devotion, faithfulness and fidelity: a commitment *to* something or someone.
+
+In another sense it’s a responsibility, an undertaking, a duty or obligation—a commitment to *do* (or to *not do*) something.
+
+Quite often commitment *to* a person or thing also entails commitments *to do things,* and how faithfully we carry out our commitments *to do* is used as a yardstick to measure the quality of our commitment *to.* As in ‘If you really loved me you wouldn’t have forgotten to do the washing up,’ and ‘If you really loved me you wouldn’t have gone to see Igor when I wasn’t feeling well.’
+
+So when Eunice, the London-based events organiser, says; ‘People tell me I’m afraid of commitment. My answer to that is that I like commitment so much I want more of it,’ she’s talking about commitments *to*. At various points over the last few years she’s had three, four and five partners. Her current relationships date back as much as twelve years. There’s no lack of commitment, just an absence of exclusivity. Here Eunice is very much talking about loyalty and devotion—how committed people are to her and she to others—though there’s a slight irony that Eunice is one of those people who also takes on more of the other sort of commitments, *to do,* than most of us.
+
+Some people assume, as she says, that those who practice consensual non-monogamy are shy of long-term involvements—as though monogamy equals commitment in the sense of devotion and dedication and the alternatives do not. That’s not borne out by the evidence. Plenty of people flit from one monogamous relationship to another, sometimes with periods of overlap.  There’s equally no shortage of non-monogamous people who remain deeply involved with multiple partners over years and decades. There are certainly those who see in consensual non-monogamy an opportunity to sidestep the contractual commitments that they associate with marriage (which, in a way, turn commitments *to* into commitments *to do* and *to not do*), there are plenty who, to borrow Andie Nordgren’s phrase from the Relationship Anarchy Manifesto, are happy to ‘customise their commitments’.
+
+Dr. Liz Powell has an interesting take on things. The commitment *to* that she describes here is actually loyalty to a set of principles that guide how she treats others. And then when she talks about ‘minutiae’, she’s talking more about specific commitments *to do*.
+
+> When I think of the commitments that I have with people, a lot of them are ones that I make to myself rather than to them; commitments about how I will treat them, how I will interact with them, how I will think about them and how I will conduct myself if and when things end. What I want to have for myself is a clear set of values that guides the behaviour I have throughout the rest of my life and that applies to everything, not just my relationships. And so, the commitments I make with individual people tend to be more about minutiae than about principles, because the principles I hold to, I hold to for me, and I hope that the other people hold to similar-ish ones.
+
+Liz feels that having a central overarching commitment *to* a ‘*how to*’  helps her ensure that everyone in her life is treated fairly and consistently.
+
+McFadden likewise is insightful about that relationship between commitments *to* and *to do*. In many ways our commitments to someone or to a set of principles can be rather nebulous in the abstract. We ourselves might not even be wholly sure just how committed we are *to* someone until the time comes to act on that commitment. It’s in the doing that we get a shape of the feeling.
+
+> The question I have, the question that’s present in my mind over the long term, is who’s going to come fetch me from the emergency room?
+
+> We can laugh about that but I actually did have what I thought was a primary partner in the past who failed to come and fetch me from the emergency room. The broader version of that question is who has your back when the chips are down, right? When things are unpleasant for all concerned, who shows up for you anyway?
+
+So, as you see, our loftier commitments are often put to the test by the practicalities. Does the ‘Of course I’ll always be there for you, babe’ actually translate into being there when it’s 3 a.m., you’re bloody tired, and that particular babe is in the accident and emergency room after falling over in the street after two glasses of pinot noir too many? I mean, is it ‘I love you n’all but not that much, know what I mean?’ Or is it jumping in a cab so you can help them home and the only comment passed is a Roger-Moore-style raised eyebrow? Sometimes you only find out when it happens. By the same token, time and again you hear people say you only find out who your real friends are when things get tough.
+
+In much the same way, specific commitments *to do—*to raise a family, to maintain a mortgage, to support someone in their career—are all expressions of a deeper impulse: an impulse to stick together, to survive together, which are all in the realm of devotion and loyalty, of commitments *to*. McFadden again:
+
+> We bring a series of ideals to each relationship, but then there’s how do we deal with each other in practice on a day to day basis, and come to grips with each situation, however challenging, as it comes up? It takes a lot of courage to be willing to accept a measure of uncertainty. If your other partner is also in the hospital, to whose rescue do you come, right?
+
+> It’s the difference between what one aspires to in principal and what one chooses to do out of love. Human beings who are acting out of love find a way to make things work.
+
+There are various ways that we arrive at our commitments *to.* Some are chosen, some arise out of a mutual need for support and to survive (the kind of bond our ancestors might have had with their tribe), some arise by  accepting others’ expectations of one’s duty, and some arise from the human equivalent of what, in titi monkeys, Karen Bales would call pair bonding and the parent-child bond.
+
+McFadden is highlighting the dilemma that people face when they have deep and bonded relationships with more than one person. It’s not unique to the consensually non-monogamous. Parents certainly ask themselves the same thing. If I had to make an impossible choice between my loved ones, parents, partner, children, how and who would I choose? It’s the kind of choice that movies are written around precisely because it’s the kind of choice that we dread.
+
+And yet, for the most part, we rarely or never find ourselves in that position. We are presented with manageable choices. You ask a partner to take care of your child on this occasion because another partner fell ill and needs care and support. As McFadden says, ‘Human beings acting out of love find a way to make things work.’ You could try writing that into an agreement but it’s the doing of it that actually brings it into being.
+
+I think there’s a case for us understanding commitments through the prism (haha) of Maslow’s hierarchy of needs.
+
+![](image/Maslow.png)
+
+Our relationships are an important means by which we and others meet our needs. We’re social, not solitary. We look for commitment from people who will do things for us, and there’s a not unreasonable expectation that we’ll reciprocate. In a precarious past without social safety nets, people’s loyalty and their determination to make good on things expected of them were all that kept people from destitution and death.
+
+Traditionally, commitments such as marriage have been about formalising commitments *to do* as part of meeting a range of needs. But because people have to meet the needs at the bottom of the pyramid before they can attend to those at the top, these commitments were primarily about food, warmth, shelter and safety first. Love and belonging were a bonus, and esteem only if you were marrying into a privileged class. Only recently in human history has a wider segment of society entered into committed relationships for the purposes of self-actualisation. Historically that was open to few people, the most privileged of the elite, because few had the security to aspire to self-actualisation. Even Leonardo and Michelangelo had to work to pay the bills, just like ninja turtles everywhere.[^footnote-107]
+
+So when Liz Powell talks of her reservations about the limitations of the traditional lifetime marriage ideal, she speaks as someone who, as a woman of her background and circumstances, is capable of meeting her own physiological and security needs independently and who sees commitments more in terms of realising her higher needs.
+
+> I think that the idea that you can make a commitment that will last for that long is interesting and cute as an aspiration but not particularly practical. The person I am today is not the person I’ll be in 20 years or 30 years. And yet the model that we come from, most of us, is one that says that the only successful relationship is one that ends in death.
+
+The thing about commitments *to do* (or not) isn’t so much what you commit to—so long as that’s clear and agreeable—it’s the doing of it. You could commit to doing anything from the dishes once a week to spending a lifetime caring for someone. Clear commitments *to do* give people an idea of your level of devotion; in the performance, they see whether your commitment means anything.
+
+The 1978 movie *Same Time, Next Year* starring Alan Alda and Ellen Burstyn is about two lovers (both married to other people) who meet up once a year for 26 years to continue their affair. At the end of the movie Alda’s character, by now widowed, proposes to Burstyn’s and stomps off when she refuses him, only to return whereupon they renew their commitment to meet every year for as long as they’re able.
+
+Notwithstanding the fact that they’re probably not honouring their commitments to their respective spouses by having an affair, it’s an illustration of an enduring commitment to something quite specific and limited but nevertheless meaningful to them both. It’s what would be called a comet relationship.
+
+One problem with traditional marriage vows, until people started pointedly rewriting them to reflect their own circumstances, was that they were an off-the-shelf collection of societal expectations and other people’s pledges, not the couple’s own commitments to meet one another’s needs. Marriage vows have also institutionalised some very challenging commitments. ‘I will look after you for the rest of my life’ is tough enough but it’s a commitment to do something. ‘I will *love* you for the rest of my life’ simply creates an impossible burden. It’s a beautiful aspiration and a romantic declaration, but we don’t have the same degree of control over our feelings as we do over our actions. People fall out of love even when they don’t want to.
+
+The fact that some people don’t think very carefully about the vows they’re making, or sometimes promise what they find they can’t deliver, is a good illustration of what consensual non-monogamy, with its high levels of regular, ongoing communication and negotiation, can offer as a model for monogamous people.
+
+It’s also clearly possible to make and honour commitments *to* multiple people beyond the monogamous norm. However, monogamous or not, it’s generally better—to borrow from business-speak—to under-promise and over-deliver.
+
+### Making Commitments
+
+I hesitate to offer hard and fast guidelines for making commitments. They’re very particular to people’s personalities and circumstances. But here are a few thoughts:
+
+
+- It’s almost always easier to make a commitment than to fulfil it.
+- Commitments to do something are generally more realistic than commitments to feel something.
+- Fulfilling commitments is more important than making them.
+- Some commitments, such as to those who are dependent on us—for instance, children—are treated differently because the other party can’t negotiate.
+- Power differentials matter when making and honouring commitments.
+- Failing to honour a commitment we’ve made costs us emotionally and in terms of self-esteem.
+
+---
+
+[^footnote-107]: In 1482 Leonardo wrote an outstanding speculative letter to Ludovico, Duke of Milan, asking for a job. Of course Leonardo was hoping to corner the bedroom poster market not quite five hundred years before Andy Warhol, but in the meantime art be damned, he’d build weapons of mass destruction to pay the rent: “If needs be I will make big guns, mortars, and light ordnance of fine and useful forms, not the everyday sort. If bombardment operations should fail, I will design catapults, mangonels, trabocchi, and other contraptions of marvellous and endless variety and means of offence and defence. In peace time I believe I can offer perfect satisfaction equal to any in the practice of architecture and the construction of public and private buildings, and in guiding water from one place to another. I can execute sculpture in marble, bronze, or clay, and also in painting I do the best that there, as well as anyone, whoever they might be.”

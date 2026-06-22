@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id">A World Beyond Monogamy</dc:title>
+    <dc:creator id="id-1">Jonathan Kent</dc:creator>
+    <dc:identifier>calibre:123</dc:identifier>
+    <dc:identifier>uuid:6f9ea57b-2c4f-4ffc-8152-6d883e1c933b</dc:identifier>
+    <dc:identifier id="bookid">urn:uuid:251E7234-71DE-4716-AA8D-7710AAA27924</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:date>2023-02-16T21:32:43+00:00</dc:date>
+    <dc:publisher>Luminastra Press</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">World Beyond Monogamy, A</meta>
+    <meta name="generator" content="Adobe InDesign 16.3.2"/>
+    <meta name="cover" content="world-beyond-monogamy-cover.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2022-01-22T22:26:24Z</meta>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Kent, Jonathan</meta>
+    <meta property="calibre:author_link_map">{"Jonathan Kent": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook" href="World_Beyond_Monogamy_Final_eBook.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id2" href="World_Beyond_Monogamy_Final_eBook-1.1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="Frontispiece.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-1" href="World_Beyond_Monogamy_Final_eBook-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-2" href="World_Beyond_Monogamy_Final_eBook-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-3" href="World_Beyond_Monogamy_Final_eBook-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-5" href="World_Beyond_Monogamy_Final_eBook-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-6" href="World_Beyond_Monogamy_Final_eBook-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-7" href="World_Beyond_Monogamy_Final_eBook-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-8" href="World_Beyond_Monogamy_Final_eBook-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-9" href="World_Beyond_Monogamy_Final_eBook-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-10" href="World_Beyond_Monogamy_Final_eBook-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-11" href="World_Beyond_Monogamy_Final_eBook-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-12" href="World_Beyond_Monogamy_Final_eBook-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-13" href="World_Beyond_Monogamy_Final_eBook-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-14" href="World_Beyond_Monogamy_Final_eBook-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-15" href="World_Beyond_Monogamy_Final_eBook-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-16" href="World_Beyond_Monogamy_Final_eBook-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-17" href="World_Beyond_Monogamy_Final_eBook-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-18" href="World_Beyond_Monogamy_Final_eBook-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-19" href="World_Beyond_Monogamy_Final_eBook-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-20" href="World_Beyond_Monogamy_Final_eBook-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-21" href="World_Beyond_Monogamy_Final_eBook-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-22" href="World_Beyond_Monogamy_Final_eBook-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-23" href="World_Beyond_Monogamy_Final_eBook-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-24" href="World_Beyond_Monogamy_Final_eBook-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-25" href="World_Beyond_Monogamy_Final_eBook-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-26" href="World_Beyond_Monogamy_Final_eBook-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-27" href="World_Beyond_Monogamy_Final_eBook-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-28" href="World_Beyond_Monogamy_Final_eBook-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-29" href="World_Beyond_Monogamy_Final_eBook-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-30" href="World_Beyond_Monogamy_Final_eBook-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-31" href="World_Beyond_Monogamy_Final_eBook-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-32" href="World_Beyond_Monogamy_Final_eBook-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-33" href="World_Beyond_Monogamy_Final_eBook-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-34" href="World_Beyond_Monogamy_Final_eBook-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-35" href="World_Beyond_Monogamy_Final_eBook-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-36" href="World_Beyond_Monogamy_Final_eBook-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-37" href="World_Beyond_Monogamy_Final_eBook-37.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-38" href="World_Beyond_Monogamy_Final_eBook-38.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-39" href="World_Beyond_Monogamy_Final_eBook-39.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-40" href="World_Beyond_Monogamy_Final_eBook-40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-41" href="World_Beyond_Monogamy_Final_eBook-41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-42" href="World_Beyond_Monogamy_Final_eBook-42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-43" href="World_Beyond_Monogamy_Final_eBook-43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-44" href="World_Beyond_Monogamy_Final_eBook-44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-45" href="World_Beyond_Monogamy_Final_eBook-45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-46" href="World_Beyond_Monogamy_Final_eBook-46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-47" href="World_Beyond_Monogamy_Final_eBook-47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-48" href="World_Beyond_Monogamy_Final_eBook-48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-49" href="World_Beyond_Monogamy_Final_eBook-49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-50" href="World_Beyond_Monogamy_Final_eBook-50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-51" href="World_Beyond_Monogamy_Final_eBook-51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-52" href="World_Beyond_Monogamy_Final_eBook-52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-53" href="World_Beyond_Monogamy_Final_eBook-53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-54" href="World_Beyond_Monogamy_Final_eBook-54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-55" href="World_Beyond_Monogamy_Final_eBook-55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-56" href="World_Beyond_Monogamy_Final_eBook-56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-57" href="World_Beyond_Monogamy_Final_eBook-57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-58" href="World_Beyond_Monogamy_Final_eBook-58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-59" href="World_Beyond_Monogamy_Final_eBook-59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-60" href="World_Beyond_Monogamy_Final_eBook-60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-61" href="World_Beyond_Monogamy_Final_eBook-61.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-62" href="World_Beyond_Monogamy_Final_eBook-62.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-63" href="World_Beyond_Monogamy_Final_eBook-63.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-64" href="World_Beyond_Monogamy_Final_eBook-64.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-65" href="World_Beyond_Monogamy_Final_eBook-65.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-66" href="World_Beyond_Monogamy_Final_eBook-66.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-67" href="World_Beyond_Monogamy_Final_eBook-67.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-68" href="World_Beyond_Monogamy_Final_eBook-68.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-69" href="World_Beyond_Monogamy_Final_eBook-69.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-70" href="World_Beyond_Monogamy_Final_eBook-70.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-71" href="World_Beyond_Monogamy_Final_eBook-71.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-72" href="World_Beyond_Monogamy_Final_eBook-72.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-73" href="World_Beyond_Monogamy_Final_eBook-73.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-74" href="World_Beyond_Monogamy_Final_eBook-74.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-75" href="World_Beyond_Monogamy_Final_eBook-75.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-76" href="World_Beyond_Monogamy_Final_eBook-76.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-77" href="World_Beyond_Monogamy_Final_eBook-77.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-78" href="World_Beyond_Monogamy_Final_eBook-78.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-79" href="World_Beyond_Monogamy_Final_eBook-79.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-80" href="World_Beyond_Monogamy_Final_eBook-80.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-81" href="World_Beyond_Monogamy_Final_eBook-81.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-82" href="World_Beyond_Monogamy_Final_eBook-82.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-83" href="World_Beyond_Monogamy_Final_eBook-83.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-84" href="World_Beyond_Monogamy_Final_eBook-84.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-85" href="World_Beyond_Monogamy_Final_eBook-85.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-86" href="World_Beyond_Monogamy_Final_eBook-86.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-87" href="World_Beyond_Monogamy_Final_eBook-87.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-88" href="World_Beyond_Monogamy_Final_eBook-88.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-89" href="World_Beyond_Monogamy_Final_eBook-89.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-90" href="World_Beyond_Monogamy_Final_eBook-90.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-91" href="World_Beyond_Monogamy_Final_eBook-91.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-92" href="World_Beyond_Monogamy_Final_eBook-92.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-93" href="World_Beyond_Monogamy_Final_eBook-93.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-94" href="World_Beyond_Monogamy_Final_eBook-94.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-95" href="World_Beyond_Monogamy_Final_eBook-95.xhtml" media-type="application/xhtml+xml"/>
+    <item id="World_Beyond_Monogamy_Final_eBook-96" href="World_Beyond_Monogamy_Final_eBook-96.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="x1.jpg" href="image/1.jpg" media-type="image/jpeg"/>
+    <item id="benzene.png" href="image/benzene.png" media-type="image/png"/>
+    <item id="Dunning-Kruger.png" href="image/Dunning-Kruger.png" media-type="image/png"/>
+    <item id="edward-crane-frontispiece.jpg" href="image/edward-crane-frontispiece.jpg" media-type="image/jpeg"/>
+    <item id="frontispiece-to-the-series-3.jpg" href="image/frontispiece-to-the-series-3.jpg" media-type="image/jpeg"/>
+    <item id="HalfTitle.png" href="image/HalfTitle.png" media-type="image/png"/>
+    <item id="Luminastra_Comet_Logo.png" href="image/Luminastra_Comet_Logo.png" media-type="image/png"/>
+    <item id="Maslow.png" href="image/Maslow.png" media-type="image/png"/>
+    <item id="treatise-polygones-timesandtimes-v2.png" href="image/treatise-polygones-timesandtimes-v2.png" media-type="image/png"/>
+    <item id="world-beyond-monogamy-cover.jpg" href="image/world-beyond-monogamy-cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="id7" href="font/ArialHebrew-01.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id8" href="font/BebasNeue.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="id9" href="font/BodoniMT-Italic.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id10" href="font/Chapbook-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="id3" href="font/GenBasB.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id4" href="font/GenBasBI.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id5" href="font/GenBasI.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id6" href="font/GenBasR.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id13" href="font/MS-Yahi.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id12" href="font/Whipsmart.ttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook"/>
+    <itemref idref="id2"/>
+    <itemref idref="id1"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-1"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-2"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-3"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-5"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-6"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-7"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-8"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-9"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-10"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-11"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-12"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-13"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-14"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-15"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-16"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-17"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-18"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-19"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-20"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-21"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-22"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-23"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-24"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-25"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-26"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-27"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-28"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-29"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-30"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-31"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-32"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-33"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-34"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-35"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-36"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-37"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-38"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-39"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-40"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-41"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-42"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-43"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-44"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-45"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-46"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-47"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-48"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-49"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-50"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-51"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-52"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-53"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-54"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-55"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-56"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-57"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-58"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-59"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-60"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-61"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-62"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-63"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-64"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-65"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-66"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-67"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-68"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-69"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-70"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-71"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-72"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-73"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-74"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-75"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-76"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-77"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-78"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-79"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-80"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-81"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-82"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-83"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-84"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-85"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-86"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-87"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-88"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-89"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-90"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-91"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-92"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-93"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-94"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-95"/>
+    <itemref idref="World_Beyond_Monogamy_Final_eBook-96"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="cover.xhtml" title="Cover"/>
+  </guide>
+</package>

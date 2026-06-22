@@ -1,0 +1,101 @@
+## Chapter Fifty-Four: Negotiating
+
+How to negotiate?
+
+Well, plenty of books get written about exactly that, often by CEOs and the big-swinging-dick brigade. Indeed if you look on the internet for advice about how to negotiate, very little of it either applies to or is specifically about interpersonal relationships; rather it’s about salaries or business deals or property purchases and such like.
+
+That’s pretty telling of itself. The skills that business leaders or salespeople or (real-)estate agents would have you learn are often dire liabilities when applied to ongoing intimate relationships.
+
+We’re neither expected to nor taught how to negotiate with the people with whom we have the deepest connections. How much of parenting eventually comes down to ‘Do as I say. I’m your mother/father’? That’s fine if you’re trying to stop your child running out into the road, but terrible as a life lesson. Negotiation in any context is a skill, and the skills vary according to context.
+
+I’m not going to pretend it’s easy. For instance, no advice on negotiation will help much if you’re in a very unequal relationship. It’s hard to negotiate if the other person is prepared to take a scorched-earth approach because they simply don’t care if everything goes up in a great ball of fire. However that, of itself, tells you something.
+
+In relationships that are worth preserving, negotiation, while it can be hard, ought at least not be pointless. As we saw, the way you communicate is important. So here are a few suggestions that may help you and your partners and your metamours end up in the place where you all want to be.
+
+***1. Choose your moment.*** Even better, create a good moment. While rarely is there a perfect time to do anything, some times are unarguably better than others. If you’re ill or your partner has just crashed their car or you’ve both had three nights in a row where you’ve not slept well (children, drunks singing outside your window at 2 a.m., road drill starting at 5 a.m., biscuit crumbs in the bed…) that’s probably not a good time.  As Dr. Liz Powell puts it:
+
+> Negotiate when you’re well-resourced. So, when you’re well-fed, well-rested, you’re not in the middle of a conflict, your emotions are relatively level. I think that the less well-resourced you are the more likely it is the negotiation will go poorly.
+
+If you are in a position to set aside time, make sure you’re both fed, rested, relaxed and prepared; it can only help.
+
+***2. Don’t rush, but don’t let the process slide.*** Occasionally events impose their own time frame, often they don’t. Take the time you need. Don’t necessarily try to resolve things all at once. The first session may cast light on problems or raise questions. You may need to sit with that for a while before answers start to take form.
+
+By the same token, don’t launch a process without an end. Aim to come to a resolution even if it’s only for a limited time. Negotiations can be hijacked to become an end in themselves. Better to focus on reaching a positive conclusion.
+
+***3. Create buffering.*** While you’re negotiating it can be useful to have a holding agreement. As Kevin Patterson observes, ‘I think if you’re going to have rules and agreements you should not picture them as a solution. They’re more of a buffer until you can create solutions.’
+
+However, be aware that temporary agreements have a habit of becoming permanent or at least entrenched. You might want to time-limit them. Limits can be extended more easily than open-ended agreements can be rescinded. They also give you a time frame to work within.
+
+***4. Assume no malice.*** It can be very hard to negotiate positively if you’ve reached such a difficult pass that you feel a partner is out to harm or punish you.[^footnote-105] You’re charting a route back from stormy waters to calmer seas. You both need to be in agreement that you want to reach a resolution or at least improve things. If what you or a partner want is primarily an opportunity to express anger or hurt, then it’s probably best done separately from any negotiation. That doesn’t mean your hurt can’t have a voice in the negotiations, just that if you need that hurt to be heard, it may require time both in preparation and also after talking so that everyone can settle and talk without their fight/flight/freeze/fawn responses being activated.
+
+For situations without this degree of animosity, it’s generally easier to start from a positive place. As Liz Powell says, you can disagree with someone and still wish them well and want to secure a positive future together.
+
+> When you find yourself assuming poor intentions on the part of your partner, ask yourself ‘What’s the kindest explanation I could come up with for what they’re doing?’ and try to operate from that as long as you can. Assume no malice, because for the most part, outside of people who are acting in abusive ways or who have very specific things going on for them, the majority of folks are not purposely trying to hurt you.
+
+> It’s absolutely possible to be abusive without being malicious. Assuming no malice allows you to evaluate whether it isn’t actually malicious, whether instead it’s just someone messing up. Because we’re all going to mess up, we’re all going to hurt other people, and that’s just part of being human and part of being imperfect. And the more that we give each other the benefit of the doubt and try to stick with each other as much as we can, the better it’s going to be.
+
+***5. Be kind.*** Aim to be as kind as you can. This is something that people get wrong. Sometimes they’re aiming to be kind but get confused about what kindness is. More from Dr. Liz:
+
+> Kindness is not the same as niceness. Kindness is about doing what is best for everyone involved, which sometimes means calling someone on their stuff. Which sometimes means drawing a line in the sand.
+
+*Kindness* is about compassion and generosity of spirit and wanting the best for someone. *Niceness* is about being agreeable. We can be nice by smiling while seething inside. Niceness is what you get from people you don’t really know and who are trying to be polite (or who are very confrontation-averse). Your real friends will do you the profound kindness of telling you what you may not want to hear but what you need to hear, and of telling it to you with love. That’s a big deal.
+
+***6. Listen. Listen a lot.*** Ask questions if it helps someone explain or helps tease out their thoughts and feelings. Asking questions shouldn’t mean conducting an interrogation or a cross examination. Questions are to help someone clarify or illuminate a situation. Try to avoid leading questions, those that steer or push someone towards a particular answer. Don’t presuppose their answers. Don’t assume: either that they know what you mean, or that you know what they feel. In particular don’t assume motives. If in doubt clarify, clarify, clarify.
+
+***7. Don’t box yourself in.*** Big sweeping statements don’t help. As McFadden says, these are difficult to row back or for someone else to move forward from.
+
+> If we make declarative statements we have excluded the possibility of amendment by the other person. In any kind of relational conflict, and non-monogamy especially, if we bring a spirit of curiosity and a formulation of inquiry to those negotiations we wind up closer to the place that we would all like to get.
+
+***8. Know thyself.*** It’s such good advice that the Greeks had it inscribed on the temple of Apollo at Delphi so that people would see it as they went in to visit the oracle and also on the way out again, knowing less than they did 30 minutes earlier. McFadden says that for him, understanding his feelings, desires and motives was a turning point.
+
+> I would say the first watershed for me in terms of being a successful participant in non-monogamous relationships was owning the things that I wanted and needed and owning the feelings that I didn’t want, and just simply accepting that I had those feelings and starting from where I was at.
+
+It’s a cliché, but it’s very hard to be honest with other people if you’re struggling to be honest with yourself, and if you can’t be honest with people when you’re negotiating, you’ve undermined your best basis for success.
+
+***9. Be clear about your boundaries.*** This is a toughie, because as Liz Powell says, having boundaries means having a plan if someone crosses them.
+
+> It’s important when negotiating to be very aware of, and firm on, your own boundaries. One of the things I see people mess up the most is agreeing to things they’re not actually okay with, and that are outside of their own boundaries, because they’re afraid of losing the relationship. And as soon as you are unwilling for a relationship to end, you’re no longer in a relationship, you’re in a hostage situation. You cannot adequately negotiate a relationship if you are unwilling to face the possibility that it could end.
+
+Like most of this chapter it comes down to ‘that’s not a non-monogamy issue, it’s a human issue’. Plenty of us have been in situations where we’ll do pretty much anything to keep a relationship going. It’s a horrible position to be in, but you don’t want it to let it be a vulnerable position as well. Knowing that we can, if necessary, exist happily by ourselves—not investing all our hopes for happiness in another—gives us a much better chance to be happy sharing a life with other people. Sounds easy, doesn’t it?
+
+***10. Be honest. Be plain.*** Tell people where you stand and what you actually want. Take it from Seb. He’s an international lawyer and negotiates deals worth tens and hundreds of millions of dollars. This may go against the popular conception of lawyers, but mostly what contract lawyers seek is clarity—because clarity helps preclude the unforeseen and the unwanted. And clarity is hard to achieve without honesty.
+
+> You should be as honest as possible. In fact, as a lawyer, I would say my style of negotiating tends to be a very honest, open one when I’m negotiating professionally because I think you avoid a lot of issues and misunderstandings that way. I don’t think you really gain much of a strategic advantage in negotiations by concealing things, even professionally. And that idea is reinforced a hundredfold when you’re negotiating anything personal.
+
+If you want more quality time with your partner, just say that. Don’t second guess what *they* might want so that you end up saying you’d really like to take them to that restaurant they mentioned or the film they sent you a review of. They may have been suggesting that because they thought *you’d* like it. All too often people end up doing things for each other because they think their partner would like it when actually neither of them does. Better to explain the real thing you’re after. ‘I really want to spend some time with you when we can connect’ would be a start. You could then explain what that might mean. ‘I really like it when we share experiences that bring us closer and give us things to talk about like the time we went to that Thai restaurant and couldn’t speak after that insanely spicy papaya salad or when we went to see that German movie neither of us could make sense of.’ Okay, this may not be your idea of a bonding experience but it’s probably someone’s somewhere.
+
+***11. Aim for a win-win*** (or in more complex poly constellations, a win-win-win-win-win). Some people, particularly some business leaders, seem to see negotiation as a form of rutting. They get to lock antlers with some other old dear and see whose break first. This isn’t very sensible in a business context let alone when you’re negotiating within a relationship.
+
+The smarter outcome is to try to forge an understanding where everybody gets what they want, or at least as much of it as possible.
+
+***12. Consider negotiating issues as a bundle.*** There are times when it might work better to negotiate several things at once as a package (though there are times when it might not). If someone is unhappy at the way cleaning duties are distributed, you might consider looking at the way all the labour within your household or relationship is distributed. One of you may like cooking and consequently takes care of that and is happy to do the grocery shopping, while another is particularly concerned about cleanliness and tends to be the first to reach for the vacuum and the mop so they might also be happy doing the dishes. Parcelling related issues together can give a better overall picture and allow for a wider range of possible trade-offs to achieve a happier balance.
+
+This might also apply, for instance, to things like how you spend your free time. One person asks that you go to the theatre more often, another wants more picnics. Hint—summer, Shakespeare, a stately garden somewhere and a hamper. God that was easy. Next!
+
+You should probably be wary of conflating major issues with minor ones or simply with very disparate ones. ‘Yes we can have a baby so long as I can build myself a man cave’ has huge potential to end up going horribly wrong, as would ’Sure Bob can move in just so long as I can use our savings to buy a Porsche’.
+
+***13. Remember that value is subjective and relative and will change.*** Something that is very important to you might be of marginal concern or value to someone else or vice versa. This cuts both ways. It can mean that the person you’re negotiating with doesn’t *see* the value of something that matters to you. If they do, it might mean that they’re happy to concede it to you because it costs them little. Or it might mean they’re unwilling to concede it because it costs them quite a lot and they can’t grasp its significance to you.
+
+It’s always helpful to explain *why* something matters to you. By the same token, it’s always a positive to look for things you can give away cheaply in negotiations that mean a lot to the other person and areas where they can do the same for you.
+
+***14. Negotiating can be fun.*** ******Seb, our lawyer, learned a new trick from an old hand—the sex educator Midori—at an under-the-radar kink conference in Singapore.
+
+> What she showed, and she did show it rather than talk about it, was how to negotiate in a way that was fun and wasn’t made out to be a serious and stressful task that had to be accomplished before you got on to the good stuff. I think there’s an important lesson there, which is that the negotiating and the discussion which is a key part of healthy non-monogamy does not need to be unpleasant.
+
+Midori’s talk was about working negotiation into a scene, almost making it part of the foreplay. Of course negotiating a scene or sex has much more latitude to be playful than many discussions about one’s relationships; nevertheless Seb’s point holds. It can be an opportunity for mutual exploration and something that can be done very much as a ‘together’ thing rather than an isolating one.
+
+### What we can all learn
+
+Pretty much everything here is as applicable to monogamous relationships as to non-monogamous ones. If you want to get the best out of a relationship, be prepared to discuss things and negotiate an amicable solution at the drop of a hat.
+
+Some monogamous people absolutely do that. Jonty, who works as a science educator in the UK, has seen that first hand.
+
+> I think that having a clear, negotiated relationship where everyone involved understands where everyone else is coming from is the most fundamental part. I have two friends, a man and a woman, a couple, but they’re not poly. They are aware of poly, they have negotiated their relationship, but to them, exclusivity was important. And in that negotiation, they discovered actually, no, we don’t want to be poly, we want to be exclusive to one another. But they’ve reached that point, not through it being the societal norm and it just being understood, but through full discussion of all of the options.
+
+> It’s not whether or not you’re poly that I think of as, like, the main differentiating factor. It’s whether or not you have a negotiated relationship where you are fully talking about what [the relationship] means.
+
+This point has been made several times already: that negotiation is healthy however your relationship works. Just because it’s just the two of you doesn’t mean that everything else has to follow the standard playbook. Negotiate the relationship that you both want. Don’t assume.
+
+---
+
+[^footnote-105]: This is not intended to apply to situation where there is the risk of abuse or intentional harm.

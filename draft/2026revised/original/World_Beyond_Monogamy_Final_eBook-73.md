@@ -1,0 +1,35 @@
+## Chapter Fifty-Eight: Scheduling
+
+Part of the reality of consensual non-monogamy is time management. It’s hard enough dating one person if you’ve both got busy working lives and don’t live together. When you’re dating two, three or more then it becomes a greater logistical challenge. Indeed the complexity seems to grow exponentially as you factor in more people.
+
+There is no single right system. Every relationship is different and the circumstances of every relationship are different. Moreover, as an oft repeated poly saying goes, love may be infinite but time is not. Neither is emotional bandwidth. For Xena time and scheduling effectively set the limits on her romantic involvements, bringing her to what some call the polysaturation point.
+
+> The most difficult thing is time management, because when you live in two different places... that was tough for me. I would usually make it two days because luckily my husband is working from home so I can have him during the weekdays, and because my boyfriend had an office and had to go to work every day usually I would spend the weekend with my boyfriend. So, whatever it is that fits to individual needs. Luckily both of my men have a different background and work schedules, so every week has a weekend for my husband. Basically you just have to look how it works for your boyfriends and your partners’ schedules.
+
+Sometimes part of the attraction of a new connection is that this new person fits neatly into one’s life. For instance, you’re busy, you live with a partner and you have limited time for a second relationship. However you live in New York and work in your firm’s London office for a few days every couple of months. You happen to meet someone you like in London. They’re very happy to have a relationship with someone who is only around occasionally… and bingo! Sometimes these things feel fated, when it’s actually just our brains going ‘Hmm, handy *and* convenient!’ Never underestimate the human capacity to make practicality a romantic feature (or, to be fair, the opposite, depending on your complexity orientation).
+
+Nathan is lucky. His partners’ demands on his time (and body obviously) happen to dovetail perfectly.
+
+> One of the millions of metrics that I have is time that she likes me around. I’ve noticed that Debbie likes me around for about two weeks minus three days, like it’d be really nice if I could bug off for three days about every two weeks. Joreth is the opposite; really likes her peace and quiet and her time away from everybody, but would like me to show up every two weeks for about three days.
+
+So that suits everybody. However, as Debbie says, the fact that there’s more planning involved does limit the ‘wild and free’ vibe a bit.
+
+> Me-time does help, it helps a lot, and I think the only frustration that I ever have is like I kind of missed the spontaneity of less structured relationships. You know, where you can go ‘Hey! Let’s go away,’ for whatever and I don’t have to look at a Google Calendar to decide if we’ve got free time together. But at the same time, I like being able to schedule ‘Hey, you know there’s this big event going on such-and-such a date’, and the fact that he relies on his calendar so much helps to make sure that he won’t forget such-and-such a date.
+
+To be frank, to a lot of people with children all this will sound quite familiar. It’s the question of How do we get ‘us’ time in a world of commitments?
+
+As Debbie says, technology definitely helps. One day someone will do some research to see how closely the popularity of consensual non-monogamy grew in parallel with the use of online calendars and scheduling apps.
+
+DK Green is as open to relationships as his diary allows.
+
+> I am probably as poly as poly gets; I have discovered or found over many years that I can equally be in love with more than one person and that doesn’t seem to have a lid on it. I think for me it’s a bit like children, and just ‘cause you have another child doesn’t mean you stop loving your first one or love them any less or any different. But you know, it was just exponential for me. So I can be in love and sexual with whomever I can fit into my life. And to be fair, the only limit is Google Calendar.
+
+So is Google Calendar the oil that makes the wheels of DK’s love life go round?
+
+> Absolutely 100%. They all have access to my diary and they can book a slot. If you are on the ball for an afternoon off or an evening off, someone will message or call me and say, “Can I have that?” That’s how it works.
+
+For Penny, whose love life has occasionally been frantic, it’s also been about making sure her husband and children also get their share of her.
+
+> I think mostly the issue is about time management, how we manage the time between work and family and the primary partner and the partner outside.
+
+In some ways the scheduling is the easy part. Making sure everyone’s needs are met can be more challenging. Where choices have to be made, most people aim to ensure that everyone gets some of what they need. But having tools to solve the practical side of complex emotional equations certainly allows people to focus on the emotional.

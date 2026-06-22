@@ -1,0 +1,85 @@
+## chapter Twenty-Seven: Poly/Mono Relationships
+
+Sometimes a monogamous person and a non-mono person will meet and fall in love. It happens. Humans have a propensity to fall in love with all sorts of other humans, even really terrible ones. Heck, some humans even fall in love with inanimate objects, like their car or, worse, someone else’s car.
+
+Monogamous people do date non-monogamous people—and vice versa… obviously. It’s not as though there’s any fundamental reason they shouldn’t, but mono-poly relationships are often especially difficult. Knowing how others have worked it out, or failed to do so, may help you avoid stresses and conflicts. The author and poly activist Franklin Veaux is one of those who is once bitten, twice shy.
+
+> God, I’ve done that. Don’t do it. You build a relationship on a stressed foundation, you bake in this fundamental stress from the very start. Best-case scenario the monogamous person says, ‘Well I don’t want multiple partners myself but I don’t care if you have multiple partners, that’s totally cool with me’, and in that case things can be wonderful.
+
+> Where things run off the rails is when that person says, ‘Well I’m monogamous and I only want one partner and I will grudgingly accept that you don’t, but I will never truly be happy with it’. Because you get this conflicted relationship where the monogamous person will engage, [perhaps] not even consciously, in all these mate-guarding behaviours to try to maintain a separation between their partner and other lovers. At worst you will get somebody who actively undermines or sabotages [your] other relationships. I have been [the poly person] in both of those situations, it’s miserable.
+
+Joreth Innkeeper is likewise wary.
+
+> I’ve seen it and I’ve also been there, done that, and every single time it’s been a mistake. It’s possible to really and truly love someone and still not make good partners for each other. And we really need to learn that lesson, because we get all of these feelings and these hormones and excitement and we want to dive into a relationship with people without paying any attention to how compatible we actually are. And then everybody wonders why their relationships blow up in the end, when from the start they’ve based their relationship on a conflict of interests.
+
+Many people think that compatibility is primarily about how well they get along. You meet someone, find each other ridiculously attractive, make one another laugh, find that you both binged on the same box sets last year, and you’re like ‘Where have you been all my life?’
+
+All that certainly helps, but so do shared values and goals. If one person has dreams of retiring to the French countryside to tend to a small vineyard and the other wants to be in the heart of London or New York so they can go to performances and galleries, then you have a problem. By the same token, if one person pictures their ideal life as being them and their (one) partner in front of the fire together and the other dreams of having their three lovelies drifting in and out, then you’ll be calling Houston again.
+
+As a practitioner on the UK’s ‘Pink Therapy’ list, DK Green has long experience of working with LGBTIQA+ and consensually non-monogamous people. He’s seen monogamous people make their peace with a partner being non-monogamous, but equally others who, however hard they would like to be okay with it, struggle.
+
+> There are those who can learn for themselves that it can be okay; that they can be enough in a relationship with someone who is poly when they are not. Often what you find is the mono person makes an attempt to be poly too in a way of “Okay, I get it. This is a better way. This is going to work. I can do this too.” And that has intrinsic failure points. If they’re not actually wired for polyamory, it’s just not going to work.
+
+> So in client terms, what often happens is a mono person may come to my door and say, “But I’m in relationship with this poly person. Help!” I do my best to give them the space to see if they can move through that. In some cases they can and it’s a win, right? And in some cases they can’t, and I have to help them realise that actually this is wrong for them because it’s actually making them intrinsically unhappy.
+
+> Generally speaking it’s about unpicking jealousy for them. However, psychologically, if it’s actually about a baseline of ‘being uncomfortable with my partner being with somebody else’, then poly is not for them. Poly is not evangelical, it’s not more evolved. It is a different way of doing things. It is a choice. And if that choice makes you utterly miserable, then it probably isn’t the right choice.
+
+One fundamental mistake that we can make with one another is wanting to change someone else into someone they don’t want to be.[^footnote-050] Another is hearing what we want to hear and not what is being said. So, when someone says to us ‘I’m not really into being monogamous/non-monogamous’ we instead tell ourselves ‘Actually I’m sure, deep down, they want what they say they don’t want. ’
+
+Maxine has encountered this on a number of occasions.
+
+> I have had several partners who went oh! Whoa, brilliant! Hot bi babe! We’ll have all of the threesomes and it’ll be amazing. And then, you know, when the relationship got serious they’d be a bit upset that I didn’t settle down and become monogamous and that I stayed the same person that I always was, because apparently they’d had some underlying expectation that the relationship would become serious and serious meant monogamous, and that would all change.
+
+This is all too familiar to sex & intimacy coach, psychologist and writer Dr. Lori Beth Bisbey. The inherent tensions in mono-poly relationships account for such a high proportion of her caseload that’s she’s writing a book about it.
+
+> “Many couples come in with the monogamous person feeling betrayed because although their partner said from the outset they were non-monogamous, at the beginning they were so focused on their new partner that it felt a lot like monogamy. Many people come to see me believing that a person can ‘give up’ non-monogamy for the ‘right person’ and they’ll point to that NRE-filled early nesting phase of the relationship as evidence that a person can give it up.”
+
+I don’t want to give the impression that it’s impossible for monogamous and non-monogamous people to date one another successfully or even form an enduring, long-term partnership. Consent in relationships shouldn’t be mostly about what you can tolerate, but rather about embracing what you want.
+
+Sometimes the relationship is what all concerned want and it’s just about learning to meet one another’s needs. Debbie, who lives in Florida, works in IT and is essentially monogamous. She dates Nathan, who is not. I asked her what she struggled with.
+
+> I think it’s like just the normal; occasionally jealousy. I’m still learning how to deal with that and because most of the time I’ve realised it’s just me being irrational about things that I shouldn’t be concerned about. But at the same time I kind of like [the setup] because, him having somebody else to spend time with means that I get more of *me* time, and I like not being social sometimes and I like not having to worry about what someone else’s concerns are at that moment. I like being able to just get lost in either video games or whatever else I’m occupying myself with. And it makes it easier for me and a little less stressful at times.
+
+Debbie struggles occasionally with things but Nathan is supportive and helps her though it. Billie, meanwhile, a photographer from Singapore who dates Yana from Russia, seemed perfectly happy dating just her despite the fact that Yana is also happily married. The only thing that threw him was the fact that when he met Yana he had no idea at all how consensual non-monogamy might work.
+
+> At the start there were a lot of rules that I didn’t understand, especially when she was going back to Russia or something and I remember I texted her because I wanted to send her off and I found out that Ivan was going to be there too, and then I was crazy nervous about it. And then I asked if it was okay if I could hug and kiss her goodbye and she was really really quite nice about it. I remembered she said you cannot only do that but that is actually encouraged in front of Ivan. From then on I was figuring out the rules… We went out for about a month without kissing or holding hands, because I didn’t know what the boundaries were because I was too afraid to ask and I was enjoying the relationship too much to care about the physical aspects of it. So it was only after some time that we sort of figured it out, well not so much for her but more for me. Because it was all new to me.
+
+Luckily Yana was very supportive and her husband, Ivan, very encouraging. She remembers when some of the barriers finally dissipated.
+
+> It was so cute. I remember our first kiss which happened, an accidental kiss on the MRT [metro]. I just wanted to hug him goodbye but his face was in the way. He didn’t expect that so it just kind of happened and we were both so shy about it.
+
+This isn’t perhaps the image that many people would have of consensual non-monogamy. But CNM dating looks a lot like monogamous dating. People can be shy or self-conscious, or just into a person’s company and holding hands.
+
+### Cowboys and Cuckoos
+
+There are monogamous people who find themselves in a relationship with a consensually non-monogamous person, realise it’s not for them and end things. Then, as Maxine says, there are those who take the opposite tack, consciously or unconsciously.
+
+> A *cowboy* is someone who sees a person who is currently polyamorous and wants them to become monogamous with them. Cowboys [may] be quite honest about their motivations and be open about trying to rope someone off from the herd and persuade them into monogamy. And I’m sort of alright with that. People want what they want.
+
+But not every cowboy wears a white hat. Some are less honest, hiding their intentions from their prospective partner, perhaps even denying them to themselves. Some monogamous people approach the non-mono person with everything from scepticism to outright emotional blackmail, from the patronising ‘They just haven’t met the right person’ and ‘They’re just going through a phase’ to the more coercive ‘I’m sure I could change their mind’ and the potentially abusive ‘I’m sure, once we’re dating, I’ll be able to tell them it’s me or non-monogamy and by that time they’ll give in.’ It’s absolutely no better than someone planning to pressure someone who is monogamous into being non-monogamous. Neither respects the integrity of the other person.
+
+Cowboys are so labelled because their tactic is to spot a straggler in the poly herd and attempt to lasso them and lead them away to the pastures of monogamy or brand them with the mark of the Dodgy Bastard Ranch. As Maxine says, they’re often quite upfront. They often turn up at poly munches thinking that non-monogamous people are less discriminating so it’ll be easier to get a date, and then once dating, they’ll be able to turn the relationship into what they want: conventional coupledom.
+
+*Cuckoos,* on the other hand, are rather less direct. Maxine again:
+
+> Cuckoo behaviour is a little more insidious. They might not even know they’re doing it. It’s more a case of, I’m saying I’m poly but actually I want this person all to myself, so I’m going to try and make everybody else so uncomfortable in the situation that they leave. So, it’s not necessarily malicious intent, at the same time it’s quite toxic within polyamorous relationships.
+
+Becky knows from hard experience that it can get ugly.
+
+> I have seen it. I don’t think it’s intentional but they struggled so much with poly, they needed so much extra time from the partner that they were particularly involved with, that all of the other partners got pushed away. They would have emotional needs and demands above and beyond what everyone else did, so the partner was just naturally forced to focus on them. And in time everyone just got bored of the behaviour and moved away and out of the relationship until it was just a monogamous core left, and it didn’t go well.
+
+There are instances where cuckoos act more out of habit than conscious malice. For example, there are anecdotal instances of people in unsatisfactory relationships using non-monogamy to get their own needs met and then, when they find a better relationship, leaving the first and pushing the new one back towards monogamy. Good communication and clear boundaries are very useful in defending against these sorts of situations.
+
+### What we can all learn from this
+
+A lot of the success or failure of any relationship is simply down to good mate selection. Some of us like to think that love conquers all. All too often it doesn’t. The allowances we make in the first throes of love can come, with time, to grate. Selecting a mate who is *compatible* with you is far more likely to determine how long the relationship lasts than how madly you love them.
+
+Yes, people can change. Absolutely. But personal change, when so much of the personality is formed in childhood, is a huge task. Trying to persuade someone who is very comfortable with the way they are to be the way you want them to be instead is mostly doomed to failure and turns you into the bad guy.
+
+Just remember the old joke, ‘How many psychotherapists does it take to change a light bulb? One, but the light bulb has to want to change.’ People change because they want that change, and even then it’s hard. It’s often made harder still by people around them resenting and resisting their changing because it reminds them of their own failure to change. One of the greatest gifts we can give someone else is to support them to choose and achieve the changes *they* want to make.
+
+So rather than pick someone superficially compatible and setting about moulding them into your perfect person, better to find someone who is fundamentally in tune with your tastes, values and goals—and accept that we all have rough edges that may or may not be smoothed with time.
+
+---
+
+[^footnote-050]: Frankly even if someone wants to change the best we can do is generally to support them while they go through their own change process.

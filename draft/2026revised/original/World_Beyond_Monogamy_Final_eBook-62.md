@@ -1,0 +1,45 @@
+## Chapter Forty-Eight: Compersion
+
+The word *compersion* was apparently coined in the San-Francisco-based Kerista community in the 1970s.[^footnote-089] According to one account the word was the result of a session with Kerista’s alphabet board, similar to a Ouija board, where two or more members would each place a finger inside a cup that would then be steered around ‘via subconscious ideomotor activity’. They were apparently trying to come up with a word for the feeling of happiness or joy they experienced at a lover’s happiness from loving or making love with others.
+
+Another note on the Kerista website traces the word to a French term “*comperage* to denote the ‘brother-in-law’ relationship among South American Indians - including sexual sharing of wives” noted by the anthropologist Claude Levi Strauss “quoting a 17th century French Capuchin missionary who worked with Brazilian Indians, Yves d’Evreux”.[^footnote-088]
+
+The word stuck; apparently there was a gap in the linguistic market as *jealousy* was one of the few emotion-describing words in English that didn’t have an antonym or opposite. Today ‘compersion’ is standard argot in the CNM world.
+
+If compersion sounds a bit sententious to some ears, that probably explains why the British poly community borrowed or came up with its own word: frubble (*n.*), or frubbly (*a.*) or to frubble (*v.*) or even frub (*n.*). If that sounds a bit silly it’s because the Brit poly scene is rather less Deepak Chopra and rather more Monty Python, Douglas Adams, and Terry Pratchett.
+
+Dr Meg-John Barker:
+
+> Well, I liked the story of the UK version of compersion. Because the British folks were kind of hearing about compersion from the US and thinking this sounded like a very silly pseudo-scientific name. So they wanted to come up with something more British and a person I knew came up with the word frubbly as a joke, like we could call it that and it sounds like a kind of Blackadder reference or something.
+
+But, piss-taking aside, the concept of compersion is genuinely interesting on a number of levels. When I interviewed Dr.  Dylan Selterman about his research into consensual non-monogamy I asked him what single thing had really made him sit up and think. His answer was something he hadn’t formally researched but that he had often encountered anecdotally:
+
+> This idea of compersion is really fascinating to me. I remember one of my friends described this years ago, he said, ‘When I see my wife and she’s hooking up with someone, it fills me with such pleasure to see that and to know that’. And that was not something that I had even imagined was possible before, that this could be a real thing. And we see it all over the world, cross culturally. We see it in all types of demographics. So it strikes me that there’s a lot of potential here for people to move toward relationship arrangements that make them really, really happy, and that the negative things we would normally associate with this type of relationship arrangement, not only are they not as bad as we thought, but it could go in exactly the opposite direction.
+
+> And at first when I heard that, I thought probably I’ll never experience this, you know, this is not something that I’m capable of. But I’ve since changed my mind. I’ve since believed that any of us and all of us are capable of feeling this type of thing. And the idea of compersion, by the way, is something that also hasn’t really been studied very well in the scientific literature. There’s a much stronger focus on jealousy. And the idea is that if you have low amounts of jealousy, then you are more comfortable. But I don’t think that fully captures the nuance of that particular emotional experience.
+
+He’s right, both in that compersion is fascinating and in that it’s more than simply not experiencing jealousy. But is it all that amazing? Well yes and no. The core idea of feeling joy at someone else’s joy, and happiness at their happiness, is hardly new. Buddhists also have an term for it: *mudita*. If your friend who has been single and lonely for many years and had resigned themselves to a solitary life meets someone wonderful, what do you feel for them? Most of us would find ourselves being lifted by their happiness. It’s the opposite, if you like, not necessarily of jealousy but of *schadenfreude* (taking pleasure, joy, or satisfaction from someone else’s humiliation or misfortune)—a terrible (though occasionally delicious) feeling but a great, great word.
+
+So compersion in that sense is not new. What is socially novel is that it’s applied to our partner’s enjoyment of romance and sex with another.
+
+If jealousy is, in some sense, a threat response and even ‘mate-guarding’ behaviour, compersion first and foremost shows that it’s not the only response. We may be wired to respond to threats, but could it be that what we do or don’t perceive as a social threat is shaped primarily by society and socialisation, not biology?
+
+Take the concept of family honour. It’s not static in space and time. These days it’s alien in most of the West, but two hundred-odd years ago it was very much a feature of respectable society. In Jane Austen’s *Pride and Prejudice* the Bennett sisters worry that their youngest sibling Lydia’s elopement with the disreputable Mr Wickham will ruin their family name and make them all unmarriable. An extreme form of ‘family honour’ results in the gruesome practice of honour killing associated with societies from Syria to the Indian subcontinent and with their expatriate communities.[^footnote-087] If you lose face and status in your society for not acting a certain way, the pressure to conform is great.
+
+By the same token, social attitudes towards jealousy differ from place to place and from time to time. In some societies tolerating your partner being hit on by another might be perceived not just as a threat to your relationship, but to your own reputation. Doing nothing could be seen as weak and unattractive, and your partner might actually expect you to act jealous and do the whole chest-thumping, mate-guarding thang.
+
+So if the rules of society change so that a partner taking another lover is neither a threat to the relationship nor to one’s social standing, is a threat response still needed? Arguably not. In short, change the social rules and it would seem you can change when jealousy comes out to play.
+
+What’s more, as Dylan Selterman has observed, people find strategies to deal with jealousy. Finding a path to, and experiencing, compersion can form part of that.
+
+> There’s an association between the closeness and intimacy that people have with their partners’ ‘others’ and feeling less jealousy. So in other words, if my partner has other partners and I feel very close and intimate with them, then I feel less jealousy. And that seems to be one of the big strategies, especially in a polyamorous context where you’ve multiple loves—like you love your partner but you also love these other people, and they love their other partners, and it is effective I guess in reducing jealousy in the sense that you’re not seeing them as competition. You’re not seeing them as A. N. Other, you’re seeing them as part of your own self, your own self-concept.
+
+Why would people feel like this? Is it a strategy of self-delusion to trick the brain into not experiencing jealousy or the raft of negative feelings that gets bundled up with it? Are we really to believe that people go around, metaphorically speaking, with their fingers in their ears going ‘la la la, everything’s fine,’ maintaining a fragile illusion of happiness?
+
+I suspect not. It’s more likely, surely, that people who feel compersion actually get an emotional payoff from it and that goes beyond shuffling off the stress and negative feelings (though it’s worth noting that it’s perfectly possible to feel both compersion and anxiety and/or insecurity simultaneously). And, don’t forget, compersion can be returned with partners taking pleasure in *your* happy relationships with others. Obviously not everyone’s relationship with their metamours is such that they’ll feel respected and supported by the people with whom they share lovers. However, as I’ve said elsewhere, for some people the feeling that one is part of something bigger than oneself, that sense of belonging, that a web of intimate relationships is stronger than the line joining two points, is a powerful one.
+
+---
+
+[^footnote-089]: Before you decry compersion as a neologism, the word ‘empathy’ has only been with us since 1908 when it was coined as a translation for the German *Einfühlung* (feeling into), which was itself only minted in 1858 by the German philosopher Rudolf Lotze. (Hat tip to Shantigarbha!)
+[^footnote-088]: [http://kerista.com/compersion.html](http://kerista.com/compersion.html)
+[^footnote-087]: It’s worth pointing out that though it’s mostly recorded in the Muslim community it’s not exclusive to it, with instances of Sikh families also carrying out honour killings, while in Muslim-majority Malaysia and Indonesia and in the Mahgreb it’s extremely rare.

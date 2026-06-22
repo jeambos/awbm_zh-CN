@@ -1,0 +1,89 @@
+## Chapter Thirty-Eight: Overlaps with Kink/Fetish/BDSM Communities
+
+For a not insignificant group of people, the route into consensual non-monogamy is through kink, in the broadest sense. For others, consensual non-monogamy has brought them into contact with the kink scene for the first time. In many places there is a notable degree of overlap between the two scenes.
+
+With apologies to those of you for whom this will be teaching grandma to suck eggs[^footnote-066], ‘kink’ is an umbrella term for sexual or quasi-sexual inclinations or practices, including BDSM (a portmanteau initialism for bondage & discipline, dominance & submission, and sadism & masochism) and fetishes that fall outside the mainstream. A kink is a deviation from the norm, and as such is often applied as a value judgement by people whose sexuality is more conventional (or ‘vanilla’) and as a badge of honour by people who identify as kinky.
+
+As Kevin Patterson observes, the degree of crossover between kink and CNM varies from place to place.
+
+> I know that kink and swinging and polyamory have a lot of overlap in the Philadelphia area. I was in places like Atlanta with a similar amount of overlap, and places like Denver or New Mexico where there’s not nearly as much overlap.
+
+There are other reasons the two intersect. Just as with the goth, nerd, geek, queer, counter-cultural, environmental and radical political spheres, the convergence is partly built around the acceptance of difference. Both also share values that underpin the idea of creating safe spaces for everyone, something that Charlotte appreciates.
+
+> Probably part of the reason why there is such a big overlap between kink and poly is because both of them require discussion and consent forward. Because I do find it really weird sometimes; I go out to vanilla clubs and I have occasionally skirted swingers’ events and they are both far less consent focused than the communities I am used to inhabiting. And it can be really confronting, that some people will suddenly touch your bottom without asking first.
+
+Though kink and CNM communities are for the most part very tolerant and welcoming, there are certainly things that are generally agreed to be unwelcome, such as grabbing people without their consent. Having mutually understood ground rules makes the two scenes broadly compatible.
+
+I was once asked to define kink and my answer was, ‘The exploration of our psychology through our sexuality and of our sexuality through our psychology.’ That still works for me.
+
+Our sexuality can be immensely complex. It’s hard to see how it can be disentangled from our psychology. We sexualise many of our experiences, some happy, some formative, some traumatic. Some turn to sex in order to work through some of the seemingly intractable problems they face. The kink community is, I would suggest, a manifestation of that, albeit one that rather than suppressing its complex sexuality, engages with it, and plays with it—often positively and mindfully, occasionally imperfectly.
+
+Kink also highlights the wide differences in people’s needs and predilections, generally in an accepting and forgiving way. There’s even an initialism common in the kink community, YKINMKBYKIOK: ‘your kink is not my kink but your kink is okay’. The main qualifying condition being, of course, consent. This is a neatly stated acceptance of the fact that on a planet of seven-billion-and-counting people there will be seven billion different sexualities, many of them fairly similar but every one of them as unique as that individual.
+
+Many things draw two people into a relationship with one another. There are, of course, physical attraction, emotional and intellectual compatibility, shared experiences, aspirations and needs. There is simple pragmatism, and there is the exquisite irrationality of human beings, drenched in hormones, that leads to decisions that make for a good story, if nothing else. Kink is rarely top of that list, especially in monogamous cultures. To adapt that Alain de Botton observation, we rarely ask on a first date ‘And how are you kinky?’
+
+Many people are at best guarded and at worst ashamed or in denial about their kinks. Most of us only reveal those parts of our psyche to another when we have reached a point when we feel secure in a relationship. But what are the odds that you and your new-found lover will both share a thing, for instance, for latex? People who are into rubber are generally *really* into rubber. As in head-to-toe, eye-popping, Popeye the Sailor or French maid rubber outfits. For most other people rubber is at best meh and quite possibly WTAF?
+
+It can seem hard enough finding someone who is compatible with you in things that shape your day-to-day existence without adding particular kinks to that list. The more criteria you add the more you shrink your pool of potential partners, and kink is often *quite* specific; niche even.
+
+Of course those whose kink is a defining aspect of their personality and way of life often start by looking for partners in that scene and then select on the basis of other compatibilities. However not everyone is aware of their kinks at the outset. One’s identity often emerges with time. Things we deny or suppress or develop later in life finally find voice, and when that happens we may seek an outlet.
+
+One consequence of this is that people who feel a strong desire to explore their kink but find themselves in a committed monogamous relationship often struggle. They either suppress their desires or they seek an outlet. For some it’s their route into non-monogamy. Laura for example:
+
+> To me sex is just sex. I’ve never thought that you need to be in love with someone to commit the sex act, but for me to want to have sex with somebody I need to connect on a particular mental or emotional level. I need to like the person. But I can have sex acts with a number of people aside from my significant other. So right from the start we knew that we enjoyed having other people in the bedroom. We really liked attending play parties together, BDSM play parties together, and we liked engaging with other couples so that was how we started.
+
+Mawar in Jakarta also came to consensual non-monogamy through kink partly to maintain an existing vanilla relationship while meeting her sexual needs.
+
+> Initially I thought it was a good sort of combination because I was with Adam who is vanilla and then I was with Seb who is kinky. So I thought mix-match would suit me very well. But along the way, I realised that kink is quite important for me. Vanilla sex is okay, but only if it happens like once or twice in three months or something. So eventually I realised that kink is what I identify with. So now I’m only looking to be in a relationship with someone who is also kinky. And I think more than being in a poly relationship, I think kink is more liberating for me. And in terms of being a feminist I think it’s more relevant for me than poly itself.
+
+Or take Kerilyn. Kerilyn was born in Zimbabwe but moved to the UK as a child and is now in her mid to late twenties. She works in the voluntary sector supporting people in crisis.
+
+> I was in a monogamous relationship with a non-kinky person but the more I delved into [the BDSM/kink social network] Fetlife, the more I realised at least that that particular relationship was not working. Emotionally we were very good friends but on that physical level, we wanted different things, we literally wanted polar opposites of each other and while we tried, when it’s not there, you can feel that it’s not there.
+
+> I encountered kink first. I think if I hadn’t I probably wouldn’t have then come to non-monogamy. I was on a very stereotypical path prior to that. The first person I actually started talking to when I discovered Fetlife was non-monogamous, but had a harem-y type non-monogamy that I couldn’t relate to; a male dominant with, I believe, three female submissives with a hierarchical sort of structure with an alpha sub and beta subs underneath that. Being that it was my first introduction to non-monogamy, I assumed that it would not be something for me.
+
+After she separated from her long-term partner, Kerilyn entered into her first BDSM relationship. It wasn’t without its problems. As mentioned earlier her partner was married and his wife imposed numerous restrictions on their relationship. But she found other relationships and wouldn’t go back.
+
+> I can’t see myself being monogamous again for a number of reasons. It wasn’t just not being able to get from each other what we wanted, but also feeling as though you’re responsible for providing that for someone else, and that someone else is responsible for providing everything that you need.
+
+This is a recurring theme amongst people who’ve chosen non-monogamy: a sense that no one person can be their everything. Kink is one of those areas where desires can be both strong and quite specific, forcing people experiencing them to make a choice. Quite a lot choose CNM, as Charlotte explains.
+
+> There is a big overlap between kink and CNM, something like a Venn diagram where the overlap is quite large. It’s not complete. There are certainly poly people who aren’t kinky and plenty of kinky people who are so ridiculously monogamous it’s insane. I mean kink is somewhere where you can literally own another person.
+
+Indeed it is. It’s one of those areas of CNM that verges on cognitive dissonance that, despite the emphasis on autonomy and consent, some people choose to give up their autonomy in the context of a 24/7 master/slave or D/s relationship *and* do it while being polyamorous at the same time *and* being into egalitarian poly, such as solo poly/ non-hierarchical/ RA.
+
+It seems contradictory, and sometimes, for those involved it is contradictory. It’s a matter of embracing one’s inner contradictions. Some people who are assertive and consciously egalitarian in most of their lives crave a space where they can shuffle off any semblance of personal autonomy and responsibility because it offers an escape from those things. There are also plenty of people in D/s relationships who will tell you that it’s the sub or slave who is ultimately in charge and point out that they can end the relationship at any time. In principle, at least, the sub/slave is far from powerless. In principle….
+
+However it’s also common for people who feel this need to compartmentalise it, either by seeing a professional dominant/dominatrix or by choosing to keep it within a specific BDSM relationship that doesn’t intersect with the rest of their life. Again this leads into non-monogamy.
+
+Consensual non-monogamy’s capacity to accommodate a wide variety of tastes and needs is important. For instance, the ability to compartmentalise different parts of one’s life and explore those with different people allows those with a need for the familiar and the stable to have a committed vanilla relationship with one partner where it gets no more kinky than barbecuing of a weekend, while having another, perhaps occasional relationship undiluted by domesticity or over-familiarity where the focus is shared sexual interests. It’s far from universal within either kink or consensual non-monogamy but nor is it at all uncommon.
+
+### Lessons from BDSM and Kink
+
+This isn’t a book about BDSM, and covering the topic comprehensively will require another volume (watch this space, as they say…). Plenty of books and resources on the internet will serve as an introduction. However, as a minimum, if you’re interested in exploring kink, even casually, there are a number of things it’s essential to pay attention to. A good BDSM book or website will stress consent, safety, and wellbeing. If it doesn’t then try another. Likewise, if a play partner doesn’t seem to be genuinely *au fait* with consent, exercise caution. There’s plenty of harm that can result from ignorance, inexperience, or insensitivity.
+
+*Consent*
+
+Everything starts from consent. It’s a mantra. I set out the principles at the beginning of this book. Given that people use BDSM and kink for reasons including exploring their own psyche and traumas, it’s important to pay attention to the mental wellbeing of all involved. Someone can *apparently* give consent to something that doesn’t serve their best interests. You may also be concerned that someone isn’t in a state of mind that allows them to give informed consent. That may include intoxication or being deep in *sub space*, a trance-like, or even out-of-body state that submissives sometimes enter as a result of intense BDSM experiences. If in doubt, stop. You don’t owe it to anyone to be kinky with them. You don’t have to be the person who goes along with something you’re not sure about.
+
+*Safewords*
+
+We live in a society that continues to shame people about their sexuality, all the more so if it falls outside certain restrictive bounds. For this reason it’s not unusual that people want to act out resistance during sex. That can include struggling, fighting back or saying ‘no’. For some people being able to do this is an integral part of their enjoying sex. It may be a way that they can shrug off the internalised feelings of disapproval and disgust that are foisted on us.
+
+Clearly this needs to happen in a consensual, pre-negotiated setting. If someone says no to you or pushes you away without there being an explicit agreement to the contrary, then *no* means stop, back off, go away.
+
+But it also means that in consenting situations, where ‘no’ has been agreed not to mean no, there needs to be another word or signal in place that does mean no. For this reason we have safewords and signals.
+
+A common solution is the traffic light system where people will say ‘green’ for go ahead and ‘amber’ or ‘yellow’ if they are starting to get uncomfortable. That’s a signal that they would like things dialled down but not stopped. If you’re touching someone in a place or in a way that is getting too intense for them they may say ‘amber’. Likewise, ‘red’ means stop. It means ‘Stop now!’ It does not mean stop in thirty seconds or in five minutes or after you’ve reached orgasm.
+
+People will often choose their own safewords. It’s *de rigueur* to agree these before a play session, especially if you haven’t played with someone before. Likewise there are visual signals, such as slapping the mattress or one’s chest three times –- these can be essential if someone cannot speak or the environment is loud.
+
+Sadly, consent violations happen in the BDSM/kink scene way more often than those in the community might hope given that kinksters generally pride themselves on greater awareness of consent and safety and on prioritising it rather more than the average Jo(e). Consent violations, even between people who are already intimate and even in a relationship, can be extremely damaging.
+
+Even a cursory survey of Fetlife, the main kink/BDSM social network, will reveal a site that’s bedeviled by misogyny, white supremacy, and the many ills of the Internet. It’s also periodically convulsed by allegations or cases of rape and sexual assault. Just as the venal and malicious cloak themselves in the language of CNM so too they use the trappings of the kink/BDSM scene. They’re often aided by an understandable unwillingness to go to the police. ‘So Miss, you were wearing a corset and thigh high boots when you were attacked..?’ Yup. Same old, same old.
+
+Sadly the best advice is to apply the standard safe-dating rules and add knobs to them. Don’t go to a new person’s place alone, tell someone where you’ll be and with whom, be seen to call friends and tell them your location. Many veterans of the scene advise newcomers to put aside shyness and only play in public group environments, such as well-supervised kink clubs or ‘dungeons.’ The more community members you have around you when you’re getting tied up, whipped, or whatever, the more you will reduce the risk. That said I’m aware of cases of abuse happening in plain sight at some venues. You might consider buddying up and operating in a pair so you can check in with one another until you know people well enough to be able to make better-informed choices.
+
+---
+
+[^footnote-066]: Egg sucking is indeed a kink in its own right, albeit a rather obscure one…

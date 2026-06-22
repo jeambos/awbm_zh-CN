@@ -1,0 +1,1068 @@
+@font-face {
+  src: url(../font/GenBasB.ttf);
+  font-family: "Gentium Basic";
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  }
+
+@font-face {
+  src: url(../font/GenBasBI.ttf);
+  font-family: "Gentium Basic";
+  font-weight: bold;
+  font-style: italic;
+  font-stretch: normal;
+  }
+
+@font-face {
+  src: url(../font/GenBasI.ttf);
+  font-family: "Gentium Basic";
+  font-weight: normal;
+  font-style: italic;
+  font-stretch: normal;
+  }
+
+@font-face {
+  src: url(../font/GenBasR.ttf);
+  font-family: "Gentium Basic";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  }
+
+
+@font-face {
+	font-family:"Arial Hebrew";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/ArialHebrew-01.ttf");
+}
+@font-face {
+	font-family:"Bebas Neue";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/BebasNeue.otf");
+}
+@font-face {
+	font-family:"Bodoni MT";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/BodoniMT-Italic.ttf");
+}
+@font-face {
+	font-family:"Bodoni MT";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/BodoniMT-Italic.ttf");
+}
+@font-face {
+	font-family:Chapbook;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/Chapbook-Regular.otf");
+}
+@font-face {
+	font-family:"Microsoft YaHei";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/MS-Yahi.ttf");
+}
+
+
+@font-face {
+	font-family:Whipsmart;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/Whipsmart.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+	font-variant: common-ligatures;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+a._idGenColorInherit {
+	color:inherit;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+table.No-Table-Style {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+td.No-Table-Style {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+tr.No-Table-Style {
+	page-break-after:auto;
+	page-break-before:auto;
+}
+p.Article-Rights-No-Bullets {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.35;
+	margin-bottom:0;
+	margin-left:37px;
+	margin-right:22px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+li.Bill-of-Rights-Bullets {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.35;
+	list-style-position:outside;
+	list-style-type:disc;
+	margin-bottom:0;
+	margin-left:37px;
+	margin-right:22px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Bill-of-Rights-No-Bullets {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.35;
+	margin-bottom:0;
+	margin-left:37px;
+	margin-right:22px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Body-text, li.Body-text {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.227;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:18px;
+	text-transform:none;
+	widows:1;
+}
+p.Body-text-no-indent {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.227;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Body-text-no-indent-Indesign-fix {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.227;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Caption {
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.35;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Chapter-Header-Page-Break {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Bebas Neue", sans-serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:90px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Chapter-title {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Whipsmart, sans-serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:54px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Copyright {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Copyright-First {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Dedication {
+	color:#000000;
+	font-family:"Gentium Italic", serif;
+	font-size:1.083em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.385;
+	margin-bottom:144px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:18px;
+	text-transform:none;
+	widows:1;
+}
+p.Dedication-no-page-break {
+	color:#000000;
+	font-family:"Gentium Italic", serif;
+	font-size:1.083em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.385;
+	margin-bottom:144px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:18px;
+	text-transform:none;
+	widows:1;
+}
+p.Footnote {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.792em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.316;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.No-Indent-No-Caps {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.227;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Basic-Paragraph {
+	color:#000000;
+	font-family:Times, serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+li.Question-Bullets {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Gentium Italic", serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.35;
+	list-style-position:outside;
+	list-style-type:disc;
+	margin-bottom:0;
+	margin-left:37px;
+	margin-right:22px;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Quote-Indented {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.35;
+	margin-bottom:12px;
+	margin-left:22px;
+	margin-right:22px;
+	margin-top:12px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Resources {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.227;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Section-Header-Page-Break {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Bebas Neue", sans-serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:162px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:108px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Section-Title {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Whipsmart, sans-serif;
+	font-size:2.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Subtitles {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Whipsmart, sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.227;
+	margin-bottom:14px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:27px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.TOC-Header-Page-Break {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Bebas Neue", sans-serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:54px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.TOC-text {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.227;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:18px;
+	text-transform:none;
+	widows:1;
+}
+p.TOC-title- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Whipsmart, sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.Annotation-reference {
+	font-size:0.667em;
+}
+span.Footnote-reference {
+	vertical-align:super;
+}
+span.Smallcaps {
+	font-variant:small-caps;
+	text-transform:none;
+}
+table.TableOverride-1 {
+	border-collapse:collapse;
+	border-width:1px;
+}
+td.CellOverride-1 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.CellOverride-2 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:5px;
+	padding-top:5px;
+}
+td.CellOverride-3 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#000000;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#000000;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#000000;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:5px;
+	padding-top:5px;
+	vertical-align:middle;
+}
+p.ParaOverride-1 {
+	text-align:center;
+}
+p.ParaOverride-2 {
+	text-align:center;
+	text-indent:0px;
+}
+p.ParaOverride-3 {
+	-epub-hyphens:none;
+}
+p.ParaOverride-4 {
+	text-align:left;
+}
+p.ParaOverride-5 {
+	-epub-hyphens:none;
+	page-break-after:always;
+}
+p.ParaOverride-6 {
+	page-break-after:always;
+	text-align:center;
+}
+p.ParaOverride-7 {
+	margin-left:36px;
+}
+p.ParaOverride-8 {
+	text-indent:18px;
+}
+p.ParaOverride-9 {
+	text-align:right;
+}
+li.ParaOverride-10 {
+	list-style-position:outside;
+	list-style-type:lower-roman;
+	margin-left:36px;
+	text-indent:0px;
+}
+p.ParaOverride-11 {
+	margin-left:9px;
+}
+p.ParaOverride-12 {
+	margin-left:27px;
+}
+p.ParaOverride-13 {
+	margin-left:27px;
+	text-indent:18px;
+}
+p.ParaOverride-14 {
+	margin-bottom:5px;
+	margin-top:5px;
+	text-align:center;
+}
+p.ParaOverride-15 {
+	margin-left:9px;
+	text-align:left;
+}
+span.CharOverride-1 {
+	font-family:"Gentium Basic";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-family:Chapbook;
+	font-size:1.272em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-family:Whipsmart, sans-serif;
+	font-size:1.43em;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-4 {
+	font-family:Whipsmart, sans-serif;
+	font-size:2.454em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-5 {
+	font-family:Whipsmart, sans-serif;
+	font-size:2.499em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:Whipsmart, sans-serif;
+	font-size:3.272em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	font-family:"Bodoni MT", serif;
+	font-size:1.318em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-8 {
+	font-family:Whipsmart, sans-serif;
+	font-size:2.545em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	text-decoration:line-through;
+}
+span.CharOverride-10 {
+	font-family:"Gentium Italic";
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-11 {
+	font-family:"Gentium Basic";
+	font-size:58%;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-12 {
+	font-family:"Gentium Basic", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-13 {
+	font-family:"Gentium Italic", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-14 {
+	font-family:"Gentium Basic", serif;
+	font-size:58%;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-15 {
+	font-family:"Gentium Basic", serif;
+	font-style:normal;
+	font-weight:bold;
+}
+
+
+span.CharOverride-18 {
+	font-size:58%;
+	vertical-align:super;
+}
+span.CharOverride-19 {
+	font-size:1.1em;
+}
+span.CharOverride-20 {
+	font-family:"Gentium Basic";
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-21 {
+	font-family:"Gentium Basic", serif;
+	font-size:58%;
+	font-style:italic;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-22 {
+	font-family:"Arial Hebrew";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-23 {
+	font-size:1.301em;
+}
+span.CharOverride-24 {
+	font-family:"Gentium Basic";
+	font-style:italic;
+	font-weight:bold;
+}
+span.CharOverride-25 {
+	font-family:"Gentium Basic";
+	font-size:58%;
+	font-style:italic;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-26 {
+	font-family:"Microsoft YaHei";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-27 {
+	font-family:Whipsmart;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-28 {
+	font-family:"Gentium Italic", serif;
+	font-style:italic;
+	font-weight:normal;
+	text-decoration:underline;
+}
+span.CharOverride-29 {
+	font-family:"Gentium Italic";
+	font-style:italic;
+	font-weight:normal;
+	text-decoration:underline;
+}
+span.CharOverride-30 {
+	color:#000000;
+}
+span.CharOverride-31 {
+	font-family:"Gentium Basic";
+	font-size:1.1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-32 {
+	font-variant:small-caps;
+	text-transform:none;
+}
+span.CharOverride-33 {
+	font-family:"Gentium Italic";
+	font-size:0.95em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-34 {
+	font-size:0.95em;
+}
+span.CharOverride-35 {
+	font-size:1.091em;
+}
+span.CharOverride-36 {
+	font-family:"Microsoft YaHei", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-37 {
+	font-family:"Gentium Basic", serif;
+	font-size:1.091em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-38 {
+	font-family:Whipsmart, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-39 {
+	font-family:"Gentium Basic";
+	font-size:1.091em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-40 {
+	font-family:"Gentium Basic", serif;
+	font-size:1.818em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-41 {
+	font-variant:normal;
+	text-transform:none;
+}
+span.CharOverride-42 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:"Gentium Basic", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-43 {
+	font-family:"Gentium Italic";
+	font-size:1.091em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-44 {
+	color:#00aeef;
+	font-size:1.227em;
+}
+p._idGenParaOverride-1, li._idGenParaOverride-1 {
+	page-break-after:always;
+}
+p._idGenParaOverride-2 {
+	font-size:1em;
+	margin-left:0px;
+}
+span._idGenCharOverride-1 {
+	font-size:0.727em;
+}
+img._idGenObjectAttribute-1 {
+	width:95.67%;
+}
+img._idGenObjectAttribute-2 {
+	width:98.28%;
+}
+img._idGenObjectAttribute-3 {
+	width:32.54%;
+}
+img._idGenObjectAttribute-4 {
+	width:27.66%;
+}
+img._idGenObjectAttribute-5 {
+	width:90.42%;
+}
+img._idGenObjectAttribute-6 {
+	width:100.00%;
+}
+img._idGenObjectAttribute-7 {
+	width:89.92%;
+}
+img._idGenObjectAttribute-8 {
+	width:90.11%;
+}
+img._idGenObjectAttribute-9 {
+	width:86.55%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}

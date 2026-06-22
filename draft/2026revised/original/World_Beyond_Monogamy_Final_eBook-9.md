@@ -1,0 +1,55 @@
+## chapter two: The Naming of Things
+
+**Polyamory** ˌpɒliˈam(ə)ri/*noun*
+
+The philosophy and/or practice of maintaining intimate relationships with more than one partner with the informed and active consent of all those affected.
+
+Naming things matters. In naming things we give them an identity. In naming ideas we bring them into being. We give names to new-born thoughts just as we do new-born children.
+
+It’s easy to underestimate the importance of language in the spread or suppression of ideas, something George Orwell grasped well. He argued that cliché and verbosity drain language of meaning, providing cover for those who want to express anything other than the truth.[^footnote-003] He takes the idea to its logical conclusion in *1984*, where citizens use Newspeak, a language so hollowed out that concepts the regime deems dangerous are eliminated one word at a time. If there’s no word for something how does one communicate it, or even think it?
+
+Conversely, giving a name to something gives it life. The word ‘polyamory’, for instance, is generally attributed to Morning Glory Zell-Ravenheart, a neo-pagan priestess and community leader in California. It’s a mash-up of Greek (*poly-*, many) and Latin ( *amor,* love). Framing the concept and giving it a name has made it much easier to share, discuss and develop.
+
+The internet has helped bring into being countless communities of interest by connecting like minds who might be a minority of one in their own neighbourhoods but collectively number thousands or millions worldwide. One area where its impact has been huge is the realm of sexuality and relationships.
+
+Before the internet the public debate about sex and relationships was largely mediated by television, radio, magazines and newspapers, few of which dared venture much outside the mainstream. And when they did they tended to indulge in prurience, titillation or moralising.
+
+The creation of shared, safe spaces for discussion was an essential feature of the second wave of feminism. Women wrote and published magazines for other women, for example *Ms.* in the US, *Spare Rib* in the UK and *EMMA* in Germany. Likewise, for same-sex-attracted men, the gay press played a vital role in creating a sense of solidarity and collective strength that allowed people first to come out and then demand and secure acceptance and proper legal and civil rights.
+
+But now broadcasting and publishing channels have proliferated, becoming so accessible that the conversations are everywhere, and traditional media have been all but side-lined. Gender and orientation identities have also multiplied, and so too have the words coined to describe them. We have genderqueer, gender-fluid, pansexual, demisexual, heteroflexible, agender, bi-gender, two-spirit, gender nonconforming, sapiosexual and so many more.
+
+It’s hard to overestimate the importance of this for people who now have a vocabulary they previously lacked.
+
+Something I heard time and again from those I interviewed for this book was that discovering there was a name for what they felt, that it was ‘a thing’, was a pivotal moment for them. Xena is originally from Indonesia, and her story is typical.
+
+> I was in a relationship with my husband and another Danish guy and I was wondering why I have a feeling for him also and feeling for my husband and why am I able to love these two people, but it didn’t occur to me that there was such a thing called polyamory or ethical non-monogamy. Then about three years ago my best friend messaged me saying I think you are polyamorous Xena! So I read this article about polyamory and it was like finding myself.
+
+For Becky, a British trans woman, who was also questioning from a young age, discovering that there were those who had gone before was a little like finding other footprints in the sand of a desert island.
+
+> My first girlfriend introduced me to the concept of poly and I went ‘oh that’s what it’s called!’ because I’d never understood this Disneyesque idea of *The One*. I remember having conversations with my mother about how will I find the one, this perfect person, and what if they died 50 years ago, what if they lived in India and I never go and meet them… you know? And so, my mum said ‘well, okay, I guess that there must be like more than one person out there’ and I was like, natural question, ‘what happens if I meet both of them at the same time?’ It never seemed to fit and then, finally, Alex introduced me to the concept and okay, so it’s okay to love other people, it doesn’t make me a monster, it’s fine and there are other people who identify as this, so I can probably find other people who will be into this and open to these experiences. So, discovering that poly is a thing and identity or concepts that other people relate to was huge, and I am eternally grateful for the poly community such as it is.
+
+From our earliest years we learn how to behave by having our feelings and experiences mirrored back to us by adults. If we find ourselves in a minority of one, it’s liable to lead to self-doubt or self-recrimination. It’s isolating. For Nathan, a technician from Florida in the United States, finding people who could both mirror his experiences back to him *and* give him a vocabulary to articulate them was transformatory:
+
+> In ninth or tenth grade my girlfriend at the time said, ‘how could you possibly love more than one person?’ And I thought to myself ‘how could you not?’ It seemed obvious to me and it was absolutely alien to her and I just kind of started following it. After that, I met Joreth [who introduced] me to the official concepts, ‘here’s all the terminology you need, here’s how to do Poly wrong, so don’t do it like that’. She’s given me the vocabulary to describe a non-standard situation and it’s delightful.
+
+So the naming of things has its place in the discovery of self. It facilitates conversations and discussions because people aren’t constantly having to lay out the basics for one another. There are broadly accepted definitions of different experiences and concepts, albeit you’ll often find that these remain up for debate at the edges. If you don’t know a word you can search for it online. It’s fairly easy to do enough research to be able to take part in any number of conversations about any number of topics.
+
+Later in this book I’ll explore various ideas captured by the terms coined by the community. Some are for styles of non-monogamy: *monogamish, solo poly, relationship anarchy* and so forth. Others are for non-monogamy-related phenomena: *metamour*, *unicorn, new relationship energy, compersion,* etc.
+
+But for now let’s define some basic terms.
+
+A number of the researchers whose work I’ve drawn on broadly divide the styles of consensual non-monogamy into three categories: swinging, open relationships and polyamory. If there is a clear boundary between each of the three I would struggle to identify it. Moreover, people can practice more than one of these. My definitions will thus be slightly arbitrary, and be aware that other people may invest terms with their own meaning. I’ll be looking at each of these and their variants in more detail later.
+
+**Open Relationship**: A primary-couple relationship in which, by mutual consent, one or both parties may pursue sexual encounters with other people. ‘Open relationship’ is sometimes used as a catch-all term for all styles of consensual non-monogamy, and before ‘polyamory’ entered the vocabulary it was often the default term for the practice of maintaining multiple relationships. However, most people, including many academics in the field, use it more narrowly to mean a situation where each person is allowed to explore sex separate from their partner. It’s not uncommon for there to be a bar on *romantic* involvements outside the dyad, and sexual encounters are sometimes on a ‘don’t ask, don’t tell’ basis.
+
+**Swinging**: a primary-couple relationship in which, by mutual consent, the couple meet other couples or groups for sex, often at parties within an established swinging scene. Many swingers have agreements not to have romantic involvements outside the dyad. A key difference between swinging and open relationships is that swingers often, though not exclusively, share their sexual experiences with their partners. Typically, swinger events are either couples-only or require men to attend only as part of a couple.
+
+**Polyamory**: Polyamorous people maintain more than one intimate relationship, which may or may not be sexual, simultaneously. The difference between polyamory and open or swinging relationships is arguably that polyamory is predicated on ongoing relationships which tend to be as much, and sometimes more, romantic and emotional as sexual. In many instances polyamory connects not just individuals and their lovers but their lovers’ lovers and beyond as an extended network. Some would say that this is a defining aspect of ‘polyamory’ and that relationships beyond the first degree matter even if they’re not necessarily close, that ideally there is at least goodwill, somewhat like an extended family. There is no such expectation with ‘open relationships’. Sometimes polyamory manifests as a tighter group relationship such as a **triad** or **quad—**occasionally an unofficial group marriage is even celebrated before the community with a ceremony and exchange of vows.
+
+**Ethical non-monogamy** and **consensual non-monogamy are** umbrella terms for the various different forms of non-monogamy I will explore. In this book I’ll use the two terms interchangeably though, as explained before, I much prefer the latter. ‘Ethical non-monogamy’ was presumably coined to distinguish polyamory, open relationships and swinging from other forms of non-monogamy such as cheating.
+
+Everything I discuss in this book rests on consent, so before we go any further we should make sure we’re all agreed on what that means.
+
+---
+
+[^footnote-003]: George Orwell, *Politics and the English Language* (1946)

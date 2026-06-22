@@ -1,0 +1,140 @@
+## Chapter Seventeen: Open Relationships and Don’t Ask Don’t Tell
+
+I’ve lumped together open relationships and ‘don’t ask don’t tell’ (DADT) partly because they often go hand in hand. As I mentioned earlier, ‘open relationship’ can be a catch-all term for CNM but people who research and write about the subject tend to use it to mean a relationship where, by agreement, both parties can experiment sexually and romantically with other people.
+
+The broad assumption is that, unlike swinging, one or both of a couple will explore separately. Unlike a monogamish fling, this will be a more deliberate pursuit rather than something triggered by circumstance. And unlike polyamory, these other connections are either not sufficiently committed to warrant everyone getting to know one another or the couple prefer to manage the situation by looking away.
+
+Yes, this definition is rather arbitrary and no, the poly police aren’t on patrol to make sure you stick to one side of the line or the other. Things blur.
+
+One interesting finding from research by a team led by Terri Conley, associate professor of psychology at the University of Michigan, is that couples in open relationships tend to have lower levels of relationship satisfaction (though comparable sexual satisfaction) than people in monogamous, swinging or polyamorous relationships.[^footnote-045] Why that’s so is isn’t clear, but if people are playing separately and not telling, it would tend to increase novelty but decrease closeness and intimacy. Knowing that your partner is, or may be, up to things of which you’re unaware—and you can’t ask about it—is distancing. Perhaps for that reason, many couples in open relationships never even consider a don’t ask don’t tell arrangement.
+
+Seb, who is polyamorous and knows his metamours, has a quasi-don’t-ask-don’t-tell arrangement covering only the more casual encounters:
+
+> The reasoning is probably best summed up in a word-for-word quote from my wife; “After this amount of time I trust that you’re not going to get into bed with somebody stupid. And so, I’m comfortable with you making your own decisions about things.” That’s one half of the reasoning. The other half of [it] was that, at the beginning, we were following the advice we’d heard, which was to communicate 100% of everything that had happened with a metamour. And even though I have become a very open-minded person over time, there were some aspects, I mean, just physically what her and partner would get up to, that felt uncomfortable, intrusive and sometimes unpleasant to hear. But I think as things progressed, it starts to become a two-way issue. There was a push factor; neither of us really wanted to hear certain grisly details about what the other got up to with another partner, but also there was a pull factor, which was that a level of trust had developed where we didn’t think that the other would abuse the freedom that that kind of arrangement gave. And it certainly was a lot easier for both of us not to feel this ongoing pressure to kind of over-communicate everything about all aspects of seeing somebody else.
+
+> It’s tended to just evolve. Given that number one, we are married, and number two, we share an apartment, it would be quite difficult for either of us to truly conduct anything long-term or of any value without the other knowing about it. And I don’t think either of us would really want to. So it’s evolved into very much a qualified don’t ask don’t tell. What we’ve dispensed with is, mostly, just the need to get an informed consent in advance of doing anything with anybody else and to trust the partner to make the decision without having to check in specifically. That’s one thing. And then also the need to communicate all aspects, particularly physical ones. Given that I travel a huge amount and both of us, while very close, live fairly independent lives, that also fits in better with our lives.
+
+The phrase ‘Don’t ask, don’t tell’ was the mantra (and part of the official policy title) that the Clinton administration offered the US military in 1993 as a means to manage the presence of gay and bisexual people in its ranks. At the time, Americans’ opinions were still fairly evenly split on whether gay relationships should even be legal.[^footnote-044] The deal forbade openly gay, lesbian and bisexual men and women from serving, but it also stopped the military from pursuing those who had not come out. In other words, we won’t look too closely so long as you don’t make it an issue we cannot ignore. It was classic Clinton: not particularly high minded but a pragmatic workaround that reflected the divided views of the time.
+
+There’s also something of the practical workaround about DADT in a consensually non-monogamous setting, albeit, as we’ll see, for a lot of people it can be a red flag. Meg-John Barker takes a nuanced view.
+
+> It works for some people. A lot of cultures have that. There’s been quite a lot of writing about French culture and how there’s often an understanding that somebody will have a mistress or whatever and there’s a ‘don’t ask, don’t tell’, ‘everybody knows, but we don’t really talk about it’. Again, downsides: obviously if you’re not communicating, then things can go pretty badly wrong as we know. But at the same time, if that’s the cultural script, it potentially offers a normative way of doing something that benefits people.
+
+> But it can enable very dishonest kinds of relationships, so I guess I would always come down on the open-communication side of these things. But, again, that’s not always that easy. So we’ve got to recognise where people are, rather than try to force them to be somewhere they’re not. And in terms of the wider culture, again, if it’s a culture where it’s actually really dangerous to do this stuff, then the ‘Let’s be open about it with everybody’ may not be so freely available to all cultures and all classes or all locations.
+
+Xena is a forty-something Indonesian woman married to a Scandinavian man not quite fifteen years her senior. They’ve been together for two decades. She’s long felt inclined to be non-monogamous; her husband doesn’t. There have been times during the course of their relationship where sex simply hasn’t been important to them. Xena feels able to disassociate sex from her primary relationship. It can be a physical need that is met elsewhere or it can be something that finds its voice in the early stages of a romantic relationship, when sex becomes more than sex. For most of that time, when Xena has taken lovers, her partner’s attitude has been ‘I don’t want to know’. The arrangement worked well. At least it did for a long time.
+
+> It wasn’t very open with us because our rules are don’t ask, don’t tell. He doesn’t want to know. I don’t want to know. As long as we are still together, as long as we still love each other, as long as we still valued the same things together that’s how it works with us. And then I started to open up to him two years ago and I told him this is what I want. I just never recognised what it is. I just found out about this term ‘non-monogamous’ and this is what I strongly believe. At the beginning he wasn’t sure about it because before we had don’t ask, don’t tell kind of rule. He never questioned me or anything ever in the past 19 years of our life. Whatever, if I don’t go home or if a guy picks me up for example he never questions me or anything.
+
+There are clearly advantages, at least for Xena, in not talking about things. It avoids facing difficult feelings. It avoids uncomfortable discussions. It avoids quite a lot of things.
+
+> Everybody is different. What works about it is that there is no jealousy, like very open jealousy. Sometimes ignorance is bliss. That works for us because we don’t need to feel jealous, we don’t need to feel insecure about the whole situation, ‘are we good are we not good?’ because we pretend that the other persons do not exist. That I think is the good thing.
+
+DADT is a viable arrangement for some people. However even Xena found that there were downsides.
+
+> The disadvantages: lying. It is kind of killing, you feel that you ‘lie’ to this person you love or you are with. I say ‘I’m going to go out,’ but it’s a white lie, or ‘I’m not going to come home don’t wait up to me’, that sort of thing, it’s more like a very subtle hiding of the reality. For me that is not really freedom. That’s the downside I guess.
+
+I suppose, semi-seriously, you might call DADT a sin of omission. It’s all about what you leave out. It’s not that one necessarily has to tell one’s partner everything. Not everyone wants a running commentary on the minutiae of someone else’s life, even someone they’re fond of to the point of loving deliriously. It’s more that when there are things that one wants to tell a partner but can’t, or feels unable to, then there’s an issue.
+
+For Xena not telling was problematic, even though there was a tacit understanding that her husband didn’t feel the urge to know.
+
+> So basically, only the last two or three years, I told him about this poly thing and this non-monogamous thing. He never made a comment, but this is his personality. He never makes a comment about things and I started being open to everyone, my friends, him and that’s when it all started to be in the open. I think when you’re together for 19 years you sort of know that you are solid. I felt more freedom when I could tell him ‘That’s okay I’m going to see Paul now and I’ll see you in a day, so call me when you want’. That gives me more freedom. That’s how I feel.
+
+A lot of consensually non-monogamous people see DADT as inherently problematic. Many people certainly feel it’s at odds with much of CNM’s ethical underpinnings.
+
+Why is this? Well, let’s take a look at some of the commonly expressed reservations.
+
+### What Happens to Consent?
+
+Earlier in the book I set out some of the basics of consent. Among them are the notions that consent should be active and informed.
+
+Consent isn’t a one-time-only thing. Consent given at the outset of a situation cannot and should not be taken to cover all permutations thereafter indefinitely. Indeed, consent really should be both specific and conditional.
+
+Nor can consent be informed unless the consenting party is in full possession of the facts. ‘It’s fine, whatever, I don’t want to know,’ isn’t so much engaged consent as a mixture of denial and avoidance. For some people this may be easier than dealing with reality, but that suggests that perhaps they don’t like the reality.
+
+It also puts the onus on one partner to interpret what the other is comfortable with. Aside from the issue of whether someone is able to do that faithfully there’s also the question of whether it’s fair to ask them to do so. Some people will guess way too cautiously and others way too loosely. Either way it’s hard to be responsible not just for someone else’s feelings, but for second guessing them while you can’t ask.
+
+Suppose things change. How does one renew consent in a don’t ask, don’t tell? That would involve both asking and telling. Not doing so means assuming consent and, sorry to have to repeat this, assuming consent is what gets all sorts of people into all sorts of trouble.
+
+### Negotiation
+
+Is it possible to negotiate DADT properly? Much of the same argument applies as above. Negotiation really ought to be ongoing and properly informed. It is possible to imagine a situation where two people sit down and say ‘Here are my red lines. Here is what I would just prefer you not to do. And here’s what I’m okay with.’
+
+There are certain problems with this. Firstly there’s the fact that it’s often impossible to predict all the possible situations that may need to be covered. Have you ever tried reading though one of those Byzantine user agreements that technology companies foist on their customers, the ones that give them your firstborn and first dibs on your spare kidney (check the squint print)? They’re incredibly long ‘because lawyers’, and the lawyers’ job is to try to foresee every unforeseeable circumstance and cover it—because this agreement is their only chance to do so. Do you really want to specify everything your partner should or shouldn’t do in some circumstance they can’t tell you about when it comes up? Do you really want to specify every single sex act that is and isn’t acceptable in advance, just in case? What if the medical science behind the safer-sex precautions you specify changes in the future? Do you want to make a list of places you’d rather they not go on dates, and things you’d rather they didn’t share?
+
+As has been said and will be discussed in more detail later, CNM relationships normally involve considerable ongoing negotiation. Not only do we not always think of everything in advance, but it’s also it’s hard to predict how we’ll react to situations we’ve not experienced before. People think they’ll be okay with something and find they’re not, and vice versa. And, as time passes, people simply change.
+
+### Someone Becomes a Secret… or not…
+
+To be fair this is a not-uncommon issue in consensual non-monogamy. There’s sometimes a genuine need for secrecy. You may find yourself in a relationship with someone who is unable or unwilling to make it public. Given negative public attitudes towards consensual non-monogamy on the one hand, and the practical realities of everyday life on the other, deciding to come out and who to come out to can be a difficult decision. So it really helps to be able to talk frankly.
+
+Sometimes that just means not letting yourself be seen by a partner’s friends. Sometimes it’s more difficult, for instance if you’re having a crisis and your partner can’t explain that to their other partner because they don’t want to know you exist. Or perhaps your own primary partner is worried about something concerning another partner you have, or even a casual involvement, but they’re neither supposed to ask nor tell.
+
+Or what if your primary partner is dating someone who knows you? Your partner can’t tell you, and your acquaintance may feel they can’t tell you either. It has potential for awkwardness especially if the other party(ies) involved know more of the story than you do and talks about it with mutual acquaintances. Your partner may have agreed to a DADT arrangement, but the people they date may not have signed up for that. People talk. To be the last in one’s social circle to know is an unenviable position to be in. It invites pity.
+
+### It Enables Cheating
+
+If you get into a relationship with someone who has a DADT arrangement with another partner, how do you make sure that their other partner(s) has actually consented, that they’re telling the truth? And if they’re lying and the truth comes out might you not find yourself being apportioned, justly or unjustly, some of the blame? People lie. People who cheat are often good at seizing on plausible excuses and CNM provides plenty. At least back in the 1950s when someone told you they were married, you could be pretty sure that their husband or wife would not look kindly upon your being wined, dined and bedded.
+
+Being able to say ‘We’re in an open relationship’ sounds all open and above board. It allows for a degree of disclosure—you know they’re partnered—but all of that gets kicked into touch when they continue ‘but we’ve got a don’t ask, don’t tell arrangement—I don’t want to know who they’re dating and they don’t want to know who I’m dating.’
+
+Sounds pretty straightforward, right? Except, right there, they’ve just nixed your ability to check that their partner is indeed okay with things. It would be perfectly normal in most CNM situations to say ‘your partner sounds great, I’d love to meet them.’ It’s a very healthy instinct and, as we’ll see when we discuss metamours—your partner’s other partner(s)—it often leads to a better understanding of one’s own partner(s) and, quite often, to friendships between metamours in their own right. DADT puts up a barricade. You are left to take everything on trust and, as is evidenced by countless tales of people ill-used in relationships, many complete scumbags are thoroughly believable. Strangely the two often seem to go hand in hand.
+
+Early in Kerilyn’s exploration of consensual non-monogamy she started dating Tim, who was married. Kerilyn made a point of speaking to his wife just to check she was okay with the arrangement. These days, though she’s become more relaxed, she’s still wary of DADT.
+
+> I wouldn’t necessarily be cool going out with someone who is in a don’t ask, don’t tell, it’s more just I would hope if you’re seeing someone you do tell, you know. I’m trusting that person, but if they were to tell me I’m in a don’t ask, don’t tell, I would find that slightly weird and uncomfortable.
+
+Subsequent experience underlined Kerilyn’s reservations. She briefly dated an entertainer she met on a dating site who ostensibly had a DADT arrangement with his wife, who suffered from a severe degenerative condition. Kerilyn took that as read, because ‘He seemed like a nice, genuine guy.’ Then he became very defensive when she asked where he lived. He framed it as ‘Why do you want to know my son’s address?’ and said he was worried about people turning up and causing a scene. She ended it at that point. DADT is open to abuse because most of us want to believe the best of other people and there are those who will take advantage of that.
+
+One thing that you hear time and again from people who’ve been cheated on is that ‘it’s the deception rather than the sex that wounds them most’. As someone I knew who’d been cheated on put it, ‘It was the fact that she [the third party] knew all about me but I didn’t know about her. They had all the intimacy, we didn’t.’
+
+There are possible solutions of course. In an age when video is ubiquitous it would be pretty easy for two people in a DADT relationship each to record a video for the other in which they give their consent so it can be shown to anyone who might wish to know. This may not suit everyone. You might feel you’re exposing yourself quite intimately to unknown strangers. It’s one thing to record a video saying ‘Hi, I’m David. If you’re watching this you’re presumably dating Kavitha. I just want you to know that’s fine with me. We don’t get involved in each other’s dating lives. Hope you understand. Have fun guys!’ But, for Christ’s sakes, don’t do it if your partner is an utter dimwit who forwards the video rather than simply playing it on their own phone to someone, or the next thing you’ll know is you’ve become the latest YouTube sensation. All in all, an old-fashioned phone call would be safer.
+
+And that’s something you could reasonably ask your date to provide on a similar digital-privacy-aware basis. If they’re unable, or if you end up talking with someone who gives their okay with all the joy and boundless enthusiasm of someone suspended over a tank of ravenous piranhas, you can take a view.
+
+### Safe Sex
+
+Think about this: What does one do in a DADT arrangement if a condom breaks or, as has been known to happen where Homo not-terribly-sapiens is involved, passions trample common sense and bypass barrier contraception in the heat of the moment? What happens then if you’re fluid bonded with another partner? Or what happens if one half of a couple practicing DADT finds they have an STI? Not being able to discuss this with your partner increases risk of transmission, and potentially onward to anyone else they’re seeing as well.
+
+### It’s a sticking plaster
+
+For some in the CNM community, don’t ask, don’t tell is seen as a sign of a relationship in trouble. The first thing to say is that one shouldn’t generalise. Some people work just fine on this basis. However, it would be healthy if it prompted a little reflection.
+
+One question to ask is ‘Why don’t you want to know?’ It’s a good question. It could be the pain of thinking about one’s partner being romantically or physically intimate with someone else. Lots of people who suspect their partner is having an affair prefer not to think about it. For others it may be the difficulty of controlling the amount of information they receive. To know a little is to invite the imagination to provide the rest. Or it could also be a reluctance to face up to problems within the relationship.
+
+Only those involved know how good a state their relationship is in, and sometimes not even then, especially if there’s not enough communication and/or honesty. Franklin Veaux, who’s been writing about CNM for two decades, is very sceptical about DADT as an approach.
+
+> To date, I have never seen a successful long-term don’t ask, don’t tell relationship. [I’m] not saying it’s impossible, but I’ve never seen it work. If someone cannot handle knowing about a partner’s other partners, something’s going on. On some level they’re living in denial or have jealousy issues they refuse to address, or they don’t really want polyamory but think they have no choice. Something is going on that makes them unwilling to acknowledge the truth directly. Healthy relationships require communication. Deliberately blocking communication is not a good long-term strategy.[^footnote-043]
+
+There’s a profound difference between being in a relationship that is fundamentally in good shape, with a life built together and a well of mutual affection, and being in a relationship one where one or both parties are looking for ways to get out. If DADT is your way out, what’s keeping you? Is it the mess of disentangling your finances, having to give up a home and find somewhere new to live? Are there children involved? These are not things that DADT (or any other CNM arrangement) can fix. It’s a situation that needs *more* honesty, *more* communication, not less, and all of it compassionate. If you’re hoping that DADT might allow you to find a new relationship that acts as a life raft to escape your sinking one, that might be understandable; being alone can be scary. However, adding more hurt to an already sensitive situation isn’t likely to make any breakup smoother, rather the opposite.
+
+Or if everything is pretty cool, you’re in a good place together, but you just fancy some recreational dating to recapture the thrill of the new, ask yourself—why not talk about it? Is it because one of you likes the idea and the other doesn’t, feels powerless to prevent it, and acquiesces for a quiet life? Maybe they want to pretend it’s not happening? That doesn’t sound exactly great.
+
+By and large when people are in healthy relationships and want to experiment with non-monogamy, they don’t shut down communication, they open it up. However, there are circumstances where that really isn’t the best option. Read on.
+
+### Context Is Important
+
+Picking up on Jess Zhu’s observations in the chapter on coming out, there’s another discreet don’t ask, don’t tell dance that she notes in China’s queer community.
+
+China is a country where there’s enormous social pressure, typically from parents, to marry and produce grandchildren. Filial piety, the obligations of children to honour, respect, obey and care for their parents, is far more important within Chinese culture than in most of its Western European and North American counterparts.
+
+Thus arises the phenomenon of gay men marrying straight women without the woman knowing about the man’s orientation. This is sufficiently common that there’s a word, *tongqi* [同妻], for a woman married unknowingly to a gay man. There’s also its corollary, *tongfu* [同夫 ], for a straight man unaware he’s married to a lesbian. There’s also a huge amount of angst and outright anger about what’s known in China as *marriage fraud*.
+
+However, Zhu also interviews people who suspect but who simply don’t want to know about their spouse’s orientation. Those people recognise their partner’s good qualities. They are being provided for. They don’t want their illusions shattered. They can live with the unspoken truth of the arrangement. The wife of one gay man Zhu interviewed had probably discovered traces of his double life on the internet, yet she was, in his words, “very smart not to ‘poke the paper window’”, i.e. not to make explicit what he believed was tacitly understood. That seemed to be confirmed by an exchange the husband described between him and his wife. Zhu quotes it thus:
+
+> ‘Let’s just suppose, what if I were [gay]? What would you do?’
+
+> She said, ‘I couldn’t do anything with it’.
+
+> ‘But you could divorce me.’ I suggested.
+
+> She replied, ‘Well, even if I divorced you and married a straight man, he might still have affairs with other women. Yet, if I’ve already had a responsible husband, what’s the difference?’[^footnote-042]
+
+Hard cases, they say, make bad laws. Zhu’s *tongqi* example is a hard case, especially by the standards of most western countries. In most cases a minimum level of telling and knowing is preferable to none, for all the reasons listed above. Zhu shows that there are exceptions.
+
+---
+
+[^footnote-045]: ‘Sexual satisfaction among individuals in monogamous and consensually non-monogamous relationships’, Terri D. Conley, Jennifer L. Piemonte, Staci Gusakova, Jennifer D. Rubin, University of Michigan; *Journal of Social and Personal Relationships* (2018), Vol. 35(4) pp 509–531.
+[^footnote-044]: A 1992 Gallup poll found that 48% of those asked favoured ‘gay or lesbian relations between consenting adults’ being legal, while 44% opposed. In 1996/7 another Gallup poll found the numbers almost reversed with 47% against and 44% in favour. https://news.gallup.com/poll/1651/gay-lesbian-rights.aspx
+[^footnote-043]: https://www.quora.com/Can-a-dont-ask-dont-tell-polyamorous-relationship-work-in-the-long-run
+[^footnote-042]: Graduate Journal of Social Science, January 2018 (14/1, pp 57-78). http://gjss.org/sites/default/files/issues/chapters/papers/GjSS%20Vol%2014-1%20Zhu.pdf
