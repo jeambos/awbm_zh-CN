@@ -1,1 +1,0 @@
-![](image/HalfTitle.png)
