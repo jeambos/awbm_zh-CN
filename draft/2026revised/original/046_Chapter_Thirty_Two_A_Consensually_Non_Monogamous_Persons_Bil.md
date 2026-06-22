@@ -87,7 +87,7 @@ Yes, if you’re not wanted by your partner’s other partner, or by their frien
 
 ### A More Universal Foundation
 
-The *Bill of* *Rights* from the More than Two website is a very personal document, but we’re not short of more universal statements of rights to draw on.
+The *Bill of Rights* from the More than Two website is a very personal document, but we’re not short of more universal statements of rights to draw on.
 
 As we know, the golden rule and its variants have shaped religions and philosophies in most corners of the world as Confucianism, Hinduism and Buddhism, and the great Abrahamic faiths; Judaism, Christianity and Islam, attest.
 
@@ -138,7 +138,7 @@ I do accept the limitations of taking a grand declaration of human rights and ap
 
 Finally, to close, here’s my own three and a quarter groats’ worth. These are less principles more notes in the margins of the above, if you like.[^footnote-058]
 
-***1.*** ***It all starts and ends with consent.*** If people aren’t giving wholehearted and informed consent to something, you’re skating on thin ice. If you’re saying or hearing ‘Well, I’d prefer…’ or ‘I’m not sure…’ then best slow down and wait for that consent.
+***1. It all starts and ends with consent.*** If people aren’t giving wholehearted and informed consent to something, you’re skating on thin ice. If you’re saying or hearing ‘Well, I’d prefer…’ or ‘I’m not sure…’ then best slow down and wait for that consent.
 
 ***2. Other people have all the rights you would ascribe to yourself.*** They are as real as you, even those you don’t know yet. Life is not a video game (though there’s an interesting philosophical point right there—and possibly a movie). As I mentioned at the outset of the book, ‘Do as you would be done by’ is an ethical foundation that has weathered the ages.
 
@@ -148,7 +148,7 @@ Finally, to close, here’s my own three and a quarter groats’ worth. These ar
 
 ***5. Don’t stop communicating.*** In most CNM relationships, constant communication and negotiation are a given. You may have stated your needs, boundaries and expectations once. Once is not enough. Don’t assume. Check in. Check often.
 
-***6.*** ***Feelings change.*** People find themselves wanting more or less. Whatever you agree now is contingent. If circumstances change so may people’s wants, needs, desires and dreams. In the realm of love and sex, no agreement is binding beyond the point where one or more people withdraw their consent to it. If you can be flexible and still be content, be flexible. If being asked to be flexible beyond a certain point makes you unhappy or uncomfortable, you’re under no obligation.
+***6. Feelings change.*** People find themselves wanting more or less. Whatever you agree now is contingent. If circumstances change so may people’s wants, needs, desires and dreams. In the realm of love and sex, no agreement is binding beyond the point where one or more people withdraw their consent to it. If you can be flexible and still be content, be flexible. If being asked to be flexible beyond a certain point makes you unhappy or uncomfortable, you’re under no obligation.
 
 ***7. People change. Let them.*** Those you love evolve and grow. So do relationships. Give people and relationships the room to find their own expression and level.
 

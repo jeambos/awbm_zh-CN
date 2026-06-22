@@ -74,7 +74,7 @@ Another distinction in some cases is that a primary is someone who has a power o
 
 > I think for me them being my primary partners means I’m always coming home and that’s really our definition. I am always going to come back.
 
-Sometimes hierarchy isn’t even a conscious thing. Sometimes just being ‘a couple’ means that, even after you stop being *just a couple* in certain important regards—i.e. you are both coupling with other people—you still behave like a couple, or more to the point *the* *couple*. And, given understanding and consent, the implied boundaries may serve all concerned well.
+Sometimes hierarchy isn’t even a conscious thing. Sometimes just being ‘a couple’ means that, even after you stop being *just a couple* in certain important regards—i.e. you are both coupling with other people—you still behave like a couple, or more to the point *the couple*. And, given understanding and consent, the implied boundaries may serve all concerned well.
 
 For instance, if Ana has run up a £50,000 credit card debt, that might mean very different things to her primary partner Rachel than to her secondary Dmitri. Dmitri gets to enjoy the fun Ana. Dmitri can take Ana out for dinner and drinks because the £50,000 debt isn’t his problem. Rachel, on the other hand, sees the home that she and Ana have made for themselves as being at risk. She doesn’t feel able to blow £100 on dinner and drinks because they have to find £2000 by the end of the month. As a primary you take the rough with the smooth, the ’82 Château Margaux with the ’22 Château Thunderbird.
 

@@ -28,7 +28,7 @@ There’s a lot more to communicating than simply talking to someone or firing o
 
 > [There needs to be] flexibility in everything. So you need the willingness and the ability to meet changing needs and circumstances and not be thrown back by the need to change a predesignated rule. I think that’s important; the ability to recognise that reality is changing, you’re changing, your partners are changing, and what you agreed on day one isn’t going to be what’s needed on day two or three or day seven hundred and thirty.
 
-***3.***  ***Realism.*** Don’t expect someone to be your everything. This is one of those things that most non-monogamous people have realised (as discussed already) and that some monogamous people, who wonder why their partners aren’t perfect, might take note of.
+***3. Realism.*** Don’t expect someone to be your everything. This is one of those things that most non-monogamous people have realised (as discussed already) and that some monogamous people, who wonder why their partners aren’t perfect, might take note of.
 
 How many relationships do we begin where we see ‘the potential’ in someone—or someone sees ‘the potential’ in us? How often does that mean trying to shape a beloved into what someone else wants them to be rather than what they themselves want, or are? We don’t have to play that game. Of course we should address those unwelcome parts of ourselves that cause us and others pain and unhappiness, but we don’t need to turn someone, or be turned ourselves, into a ‘walkin’, talkin’, livin’ doll.’ Kevin Patterson:
 
@@ -40,13 +40,13 @@ What self-care means, as broadly set out in the chapter on mental health, will b
 
 Being fair to, caring for, and meeting the needs of the important people in your life is equally critical. Relationships are best when they’re a two-way street.
 
-***5.*** ***Speak your partners’ love languages.*** Gary Chapman’s idea that people are pre-disposed to receive love and affection through their own particular ‘love languages’— which he listed as *words of affirmation*, *acts of service*, *gifts*, *quality time*, and *touch*—still offers a useful framework thirty years after he first articulated it.[^footnote-090]  Whatever your partner’s preferred love language, try to show them affection regularly. And make sure your positive interactions outweigh your negative ones several times over.
+***5. Speak your partners’ love languages.*** Gary Chapman’s idea that people are pre-disposed to receive love and affection through their own particular ‘love languages’— which he listed as *words of affirmation*, *acts of service*, *gifts*, *quality time*, and *touch*—still offers a useful framework thirty years after he first articulated it.[^footnote-090]  Whatever your partner’s preferred love language, try to show them affection regularly. And make sure your positive interactions outweigh your negative ones several times over.
 
-***6.***  ***Trust.*** Build it. Do what you say you’re going to do. Keep appointments. Be on time. Be honest. Understand that trust develops slowly and evaporates fast.
+***6. Trust.*** Build it. Do what you say you’re going to do. Keep appointments. Be on time. Be honest. Understand that trust develops slowly and evaporates fast.
 
 ***7.  Fight nicely.*** There’s no point pretending that you’ll never have disagreements. Avoiding the work of resolving them doesn’t make for good relationships any more than repeatedly warring over them. Fighting nicely is an art, like communicating well. You know you’ve fought well when the issue is settled and everyone genuinely feels better for it.
 
-***8.***  ***Get a life.*** It’s pretty daunting when the most important thing in a partner’s life is you. In contrast it’s almost always inspiring to be in the company of a person on a mission. Strong interests outside of your relationships and an equally strong sense of purpose are very attractive. Just make sure you can change course if you or your partners’ needs require it.
+***8. Get a life.*** It’s pretty daunting when the most important thing in a partner’s life is you. In contrast it’s almost always inspiring to be in the company of a person on a mission. Strong interests outside of your relationships and an equally strong sense of purpose are very attractive. Just make sure you can change course if you or your partners’ needs require it.
 
 ***9.  Authenticity.*** Ask the real you to show up. This goes back to the question about liking yourself. People who like themselves are generally easy to like, and they are always ready to bring their real selves to the party. Yes, most of us have something *about* ourselves that we don’t like. We can always treat that as an invitation to change.
 

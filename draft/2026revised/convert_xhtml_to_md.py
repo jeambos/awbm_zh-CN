@@ -105,15 +105,15 @@ def get_classes(tag):
 
 
 def merge_adjacent_formatting(text):
-    """Merge adjacent identical markdown formatting separated only by whitespace.
+    """Merge adjacent identical markdown formatting separated by whitespace.
     E.g., *a* *b* -> *a b*, **a** **b** -> **a b**, ***a*** ***b*** -> ***a b***.
     """
     prev = None
     while prev != text:
         prev = text
-        # Bold-italic
+        # Bold-italic (longest markers first)
         text = re.sub(
-            r'(?<!\*)\*\*\*([^*]+)\*\*\* +(?<!\*)\*\*\*([^*]+)\*\*\*(?!\*)',
+            r'(?<!\*)\*\*\*([^*]+)\*\*\* +(?<!\*)\*\*\*([^*]+)\*\*\*',
             r'***\1 \2***', text
         )
     prev = None
@@ -121,7 +121,7 @@ def merge_adjacent_formatting(text):
         prev = text
         # Bold
         text = re.sub(
-            r'(?<!\*)\*\*([^*]+)\*\* +(?<!\*)\*\*([^*]+)\*\*(?!\*)',
+            r'(?<!\*)\*\*([^*]+)\*\* +(?<!\*)\*\*([^*]+)\*\*',
             r'**\1 \2**', text
         )
     prev = None
@@ -129,7 +129,7 @@ def merge_adjacent_formatting(text):
         prev = text
         # Italic
         text = re.sub(
-            r'(?<!\*)\*([^*]+)\* +(?<!\*)\*([^*]+)\*(?!\*)',
+            r'(?<!\*)\*([^*]+)\* +(?<!\*)\*([^*]+)\*',
             r'*\1 \2*', text
         )
     return text

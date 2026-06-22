@@ -1,6 +1,6 @@
 ## Chapter Twelve: First Steps
 
-**Oh! My! God!** **We’re Actually Doing This Thing! What Do We Do Now?**
+**Oh! My! God! We’re Actually Doing This Thing! What Do We Do Now?**
 
 There are two things that couples often do when opening up their relationships, one very useful (but not always done) and the other potentially fraught (and done rather too often).
 
@@ -28,7 +28,7 @@ It’s useful to compare answers. For some people this can be scary. After all, 
 
 Some people tell themselves that they prefer not to know. Even if that were possible, you still face a fundamental choice: Do you want emotional and intellectual intimacy with someone you’re in a relationship with, or not? Do you want real, mutual trust, or not?
 
-As the British thinker and educator Alain de Botton put it in a wildly popular essay for *The* *New York Times:*
+As the British thinker and educator Alain de Botton put it in a wildly popular essay for *The New York Times:*
 
 > We have a bewildering array of problems that emerge when we try to get close to others. We seem normal only to those who don’t know us very well. In a wiser, more self-aware society than our own, a standard question on any early dinner date would be: “And how are you crazy?” [^footnote-036]
 
@@ -88,4 +88,4 @@ So, a quick summary:
 
 ---
 
-[^footnote-036]: ‘Why You Will Marry the Wrong Person’, Alain de Botton, *The* *New York Times,* 28 May 2016.
+[^footnote-036]: ‘Why You Will Marry the Wrong Person’, Alain de Botton, *The New York Times,* 28 May 2016.
