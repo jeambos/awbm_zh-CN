@@ -4,7 +4,7 @@
 
 | 章节 | 文件名 | 修订状态 |
 |------|--------|:--------:|
-| 导读 | `part0.preface/0.1.intro.md` | |
+| 导读 | `part0.preface/0.1.intro.md` | ✅ |
 | 序言 | `part0.preface/0.5.preface.md` | |
 | 导言 | `part0.preface/0.6.introduction.md` | |
 | 第一部分标题页 | `part1/1.0.title.md` | |
