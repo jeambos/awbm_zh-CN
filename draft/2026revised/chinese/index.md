@@ -9,9 +9,9 @@ description: "这本书不是在劝你背离承诺，而是在把单偶制之外
 
 全书已录入完毕，请点击目录查看（显示器左侧或者屏幕右上角按钮）
 
-本书 ePub 文件可[点此下载](https://download.polycn.org/%E8%B6%85%E8%B6%8A%E5%8D%95%E5%81%B6%E5%88%B6%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9A%E5%BC%80%E6%94%BE%E5%A4%9A%E5%85%83%E7%9A%84%E5%85%B3%E7%B3%BB%E4%BD%95%E4%BB%A5%E5%AE%9E%E7%8E%B0%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%BB%99%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E5%85%B3%E7%B3%BB%E6%8C%87%E5%8D%97.epub)
+本书ePub文件可[点此下载](https://download.polycn.org/%E8%B6%85%E8%B6%8A%E5%8D%95%E5%81%B6%E5%88%B6%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9A%E5%BC%80%E6%94%BE%E5%A4%9A%E5%85%83%E7%9A%84%E5%85%B3%E7%B3%BB%E4%BD%95%E4%BB%A5%E5%AE%9E%E7%8E%B0%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%BB%99%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E5%85%B3%E7%B3%BB%E6%8C%87%E5%8D%97.epub)
 
-适用于打印的 PDF 一键打印套装 [点此下载](https://download.polycn.org/beyond-monogamy-print-kit.zip)
+适用于打印的PDF一键打印套装 [点此下载](https://download.polycn.org/beyond-monogamy-print-kit.zip)
 
 :::
 
@@ -21,7 +21,7 @@ description: "这本书不是在劝你背离承诺，而是在把单偶制之外
 
 仅限非商用，非盈利传播
 
-本书翻译项目 Github 仓库：[github.com/jeambos/awbm_zh-CN](https://github.com/jeambos/awbm_zh-CN)
+本书翻译项目Github仓库：[github.com/jeambos/awbm_zh-CN](https://github.com/jeambos/awbm_zh-CN)
 
 :::
 
@@ -33,7 +33,7 @@ description: "这本书不是在劝你背离承诺，而是在把单偶制之外
 
 ## 简介
 
-《超越单偶制的世界》**A World Beyond Monogamy** 
+《超越单偶制的世界》**A World Beyond Monogamy**
 
 超越了北美经验，具有全球视野，当下最完整、最全面的非单偶制百科全书。
 
@@ -47,9 +47,9 @@ description: "这本书不是在劝你背离承诺，而是在把单偶制之外
 
 > 原书购买地址：[Buy original eBook at Luminastra Press](https://luminastra-press.com/store/index.php?route=product/product&path=57&product_id=60)
 
-作者介绍：Jonathan Kent，男，英国人。记者、播音员、作家，曾为 BBC、Reuters、Newsweek 等媒体担任国际关系和政治记者。
+作者介绍：Jonathan Kent，男，英国人。记者、播音员、作家，曾为BBC、Reuters、Newsweek等媒体担任国际关系和政治记者。
 
-译者介绍：Jeambo，曾积极参与 LGBT 倡导活动，现在转入幕后。
+译者介绍：Jeambo，曾积极参与LGBT倡导活动，现在转入幕后。
 
 ***
 
