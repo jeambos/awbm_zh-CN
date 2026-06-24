@@ -7,8 +7,8 @@
 | 导读 | `part0.preface/0.1.intro.md` | ✅ |
 | 序言 | `part0.preface/0.5.preface.md` | ✅ |
 | 导言 | `part0.preface/0.6.introduction.md` | ✅ |
-| 第一部分标题页 | `part1/1.0.title.md` | |
-| 第1章：什么是合意非单偶制？ | `part1/1.01.md` | |
+| 第一部分标题页 | `part1/1.0.title.md` | ✅ |
+| 第1章：什么是合意非单偶制？ | `part1/1.01.md` | ✅ |
 | 第2章：为事物命名 | `part1/1.02.md` | |
 | 第3章：同意 | `part1/1.03.md` | |
 | 第4章：通往合意非单偶制之路 | `part1/1.04.md` | |
