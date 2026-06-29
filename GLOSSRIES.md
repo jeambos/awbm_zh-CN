@@ -66,7 +66,7 @@
 | polysexual | 多性恋 | |
 | fluid-bonded | 体液绑定伴侣 | 指不采取阻隔式保护的伴侣 |
 | situationship | 情景爱 | |
-| check-in | 检视 / 检查 | 关系中的定期沟通 |
+| check-in | 深入谈心 | 关系中的定期沟通 |
 | agreement | 约定 / 协议 | 不用"同意"（同意专用于 consent） |
 | rule | 规则 | |
 | boundary | 边界 | 区别于"规则" |
