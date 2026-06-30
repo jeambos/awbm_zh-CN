@@ -74,7 +74,7 @@
 | veto (power) | 否决（权） | |
 | egalitarian poly | 平等多边关系 | |
 | mono-poly relationship | 多偶-单偶混合关系 | 一个多边关系者与一个单偶制者的关系 |
-| poly family | POLY家庭 | |
+| poly family | Poly家庭 | |
 | friends with benefits (FWB) | 福利朋友 / 炮友（先友后炮） | 单独出现时译为"福利朋友"；与 fuck buddy 并列出现时译为"炮友（先友后炮）" |
 | fuck buddy | 炮友（先炮后友） | 见 `0.5.preface.md` [^8] |
 | triad | 三人组合 | 见第20章 |
