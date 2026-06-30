@@ -6,7 +6,7 @@
 
 ## 本次修改数量
 
-共 23 处。
+共 34 处。
 
 ## 修改记录一览表
 
@@ -33,6 +33,16 @@
 | 019 | `part6/6.61.md` | 莉兹·鲍威尔 | 丽兹·鲍威尔 | 1 |
 | 020 | `part6/6.62.md` | 艾米·莫尔斯 | 艾米·摩尔斯 | 1 |
 | 021 | `part7/7.71.md` | 利兹·鲍威尔 | 丽兹·鲍威尔 | 1 |
+| 022 | `part1/1.06.md` | 莉兹 | 丽兹 | 1 |
+| 023 | `part2/2.17.md` | Meg-john Barker | Meg-John Barker | 1 |
+| 024 | `part2/2.25.md` | 利兹博士 | 丽兹博士 | 2 |
+| 025 | `part2/2.25.md` | 莉兹这里 | 丽兹这里 | 1 |
+| 026 | `part3/3.31.md` | Joreth Innkeeeper | Joreth Innkeeper | 1 |
+| 027 | `part3/3.31.md` | Dr. Meg-john Barker | Dr. Meg-John Barker | 1 |
+| 028 | `part3/3.35.md` | 莉兹的朋友 | 丽兹的朋友 | 1 |
+| 029 | `part5/5.54.md` | 利兹博士 | 丽兹博士 | 1 |
+| 030 | `part7/7.70.md` | 莉兹阿姨 | 丽兹阿姨 | 1 |
+| 031 | `part7/7.71.md` | 利兹： | 丽兹： | 1 |
 
 ## 统一原则
 
@@ -44,9 +54,13 @@
 - `Alexandra` 统一为“亚历珊德拉”。
 - `Maxine` 统一为“玛克辛”。
 - `Joreth Innkeeper` 统一为“旅店老板乔勒斯”或简称“乔勒斯”。
+- `Liz Powell` 的简称统一为“丽兹”。
+- 英文姓名拼写同步按传记括注统一，如 `Meg-John Barker`、`Joreth Innkeeper`。
 
 ## 未机械替换项
 
 - `David` 保留传记脚注中的区分：`David Barash` 为“大卫·巴拉什”，新加坡受访者 `David` 为“戴维”。
 - “纳森”仅作为“乔纳森”的一部分出现，不是 `Nathan` 的异译，未替换。
 - “米亚”出现在 `Mia Curtis Hopkins College` 学院名中，不是受访者 `Mia` 的异译，未替换。
+- “利兹大学”是 `University of Leeds` 地名，不是 `Liz Powell` 的异译，未替换。
+- “西娜 （Xena）”中的空格、“麦克法登的（McFadden）”中的句法问题不属于本次人名译法统一，未替换。
