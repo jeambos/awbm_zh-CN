@@ -77,4 +77,6 @@
 | poly family | POLY家庭 | |
 | friends with benefits (FWB) | 福利朋友 / 炮友（先友后炮） | 单独出现时译为"福利朋友"；与 fuck buddy 并列出现时译为"炮友（先友后炮）" |
 | fuck buddy | 炮友（先炮后友） | 见 `0.5.preface.md` [^8] |
+| triad | 三人组合 | 见第20章 |
+| throuple | 三口之家 / 三人行 | 见第20章 |
 
