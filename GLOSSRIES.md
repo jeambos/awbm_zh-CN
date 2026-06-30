@@ -41,7 +41,7 @@
 | comet partner | 彗星伴侣 | 距离遥远、不定期相会的恋人 |
 | OSO (other significant other) | 其他重要他者 | 约等于次要伴侣 |
 | sweetie | 甜心 | 次要伴侣的轻量称呼 |
-| polycule | 多分子（关系网络） | poly + molecule 组合词 |
+| polycule | Poly分子团 / 分子团 | poly + molecule 组合词 |
 | unicorn | 独角兽 | 愿意与一对情侣建立关系的人 |
 | unicorn hunting | 独角兽狩猎 | |
 | NRE (new relationship energy) | 新关系热恋能量 | 也称新关系热恋期（NRE period） |
