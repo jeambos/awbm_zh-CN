@@ -34,6 +34,7 @@
 | orientation | 性取向 | |
 | neurodiverse / neurodivergent | 神经非典型 | 也称神经多样性 |
 | compersion | 同喜 | 为伴侣与他人的关系感到快乐 |
+| pair bond / pair bonding | 配对结合 | 动物行为学术语，伴侣之间形成的情感联结 |
 | jealousy | 嫉妒 | |
 | insecurity | 不安全感 | |
 | anchor partner | 锚定伴侣 | 期望共度一生的伴侣 |
