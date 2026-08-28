@@ -80,4 +80,5 @@
 | fuck buddy | 炮友（先炮后友） | 见 `0.5.preface.md` [^8] |
 | triad | 三人组合 | 见第20章 |
 | throuple | 三口之家 / 三人行 | 见第20章 |
+| negotiate / negotiation | 协商 / 谈判 | 人际关系场景中译为"协商"；商业或法律场景中译为"谈判" |
 
