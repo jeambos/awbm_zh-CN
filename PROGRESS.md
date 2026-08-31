@@ -92,7 +92,7 @@
 | 附录标题页 | `part8.appendices/8.0.title.md` | ✅ |
 | 附录1 不常见的POLY设定 | `part8.appendices/8.1.settings.md` | ✅ |
 | 附录2 相关资源 | `part8.appendices/8.2.resources.md` | ✅ |
-| 附录3 人物小传 | `part8.appendices/8.3.biographies.md` | |
+| 附录3 人物小传 | `part8.appendices/8.3.biographies.md` | ✅ |
 
 > 译者原创文件（不纳入校对）：
 > - `part0.preface/0.0.title.md` — 中文书名页
