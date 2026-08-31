@@ -87,7 +87,7 @@
 | 第71章：法律上的事 | `part7/7.71.md` | ✅ |
 | 第72章：不重要的"小事" | `part7/7.72.md` | ✅ |
 | 第73章：重回单偶制 | `part7/7.73.md` | ✅ |
-| 第74章：敢问路在何方？ | `part7/7.74.md` | |
+| 第74章：敢问路在何方？ | `part7/7.74.md` | ✅ |
 | 致谢 | `part7/7.75.acknowledgement.md` | |
 | 附录标题页 | `part8.appendices/8.0.title.md` | |
 | 附录1 不常见的POLY设定 | `part8.appendices/8.1.settings.md` | |
